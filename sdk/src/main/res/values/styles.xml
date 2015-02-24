@@ -1,0 +1,32 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="jgsdk_button" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:background">@drawable/jgsdk_im_btn_action</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="jgsdk_button.preview" parent="@style/jgsdk_button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal|center_vertical</item>
+        <item name="android:layout_margin">16dp</item>
+    </style>
+
+    <style name="jgsdk_textview.video" parent="@android:style/Widget.TextView">
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:background">@drawable/jgsdk_bkgd_docklet_bottom</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:drawableLeft">@drawable/jgsdk_ic_menu_preview_stop_video</item>
+        <item name="android:drawableStart">@drawable/jgsdk_ic_menu_preview_stop_video</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+</resources>

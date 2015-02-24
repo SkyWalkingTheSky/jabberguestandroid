@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="jgsdk_call">コール</string>
+    <string name="jgsdk_switch_camera">カメラを切り替え</string>
+    <string name="jgsdk_network_unavailable">ネットワークが利用できません</string>
+    <string name="jgsdk_generic_user_avatar">一般ユーザアバター</string>
+    <string name="jgsdk_toggle_self_view">セルフビューを切り替え</string>
+    <string name="jgsdk_audio_muted">音声ミュート中</string>
+    <string name="jgsdk_video_muted">ビデオ停止</string>
+    <string name="jgsdk_keypad_button">キーパッドボタン</string>
+    <string name="jgsdk_control_bar_mute">ミュート</string>
+    <string name="jgsdk_control_bar_stop">停止</string>
+    <string name="jgsdk_control_bar_keypad">キーパッド</string>
+    <string name="jgsdk_control_bar_end">終了</string>
+    
+    <!-- call statistics page -->
+    <string name="jgsdk_audio_stats_heading">音声統計</string>
+    <string name="jgsdk_video_stats_heading">ビデオ統計</string>
+    <string name="jgsdk_transmit_codec_heading">送信コーデック</string>
+    <string name="jgsdk_receive_codec_heading">受信コーデック</string>
+    <string name="jgsdk_name_heading">名前:</string>
+    <string name="jgsdk_payload_type_heading">ペイロードタイプ:</string>
+    <string name="jgsdk_frame_rate_heading">FPS:</string>
+    <string name="jgsdk_frame_size_heading">フレームサイズ:</string>
+    <string name="jgsdk_default_stats_text">該当なし</string>
+    <string name="jgsdk_dismiss_stats_btn">OK</string>
+    
+    <string name="jgsdk_video">ビデオ</string>
+    <string name="jgsdk_audio">オーディオ</string>
+    <string name="jgsdk_transmit">送信</string>
+    <string name="jgsdk_packets">パケット</string>
+    <string name="jgsdk_packets_lost">損失パケット数</string>
+    <string name="jgsdk_percent_lost">損失率</string>
+    <string name="jgsdk_cumulative_pct_lost">累積損失率</string>
+    <string name="jgsdk_frame">フレーム</string>
+    <string name="jgsdk_resolution">解像度</string>
+    <string name="jgsdk_sender_frame_rate">送信フレームレート</string>
+    <string name="jgsdk_other">その他</string>
+    <string name="jgsdk_bitrate">ビットレート</string>
+    <string name="jgsdk_jitter">ジッタ</string>
+    <string name="jgsdk_roundtrip_latency">ラウンドトリップ/遅延</string>
+    <string name="jgsdk_receive">受信</string>
+    <string name="jgsdk_rcvr_frame_rate">受信フレームレート</string>        
+    <!-- call statistics page -->
+    
+    <string name="jgsdk_call_dropped">コールが切断されました</string>
+    <string name="jgsdk_call_not_completed">コールが完了していません</string>
+    <string name="jgsdk_call_server_no_response">サーバから応答がありません。</string>
+    <string name="jgsdk_error_server">リンクでサーバエラーが発生しました。</string>
+    <string name="jgsdk_error_networking">サーバにアクセスできません。デバイスがネットワークに接続されていることを確認してください。</string>
+    <string name="jgsdk_error_server_busy">サーバがビジー状態です。</string>
+    <string name="jgsdk_error_destination_busy">おかけになった電話番号は通話中です。しばらくしてからもう一度お試しください。</string>
+    <string name="jgsdk_error_link_not_active">おかけになった電話番号はまだ完了できません。しばらくしてからもう一度お試しください。</string>
+    <string name="jgsdk_error_link_expired">このリンクは期限切れのようです。</string>
+    <string name="jgsdk_error_link_disabled">このリンクは無効化されたようです。</string>
+    <string name="jgsdk_error_link_invalid">このリンクは無効です。</string>
+    <string name="jgsdk_error_link_not_found">おかけになった電話番号は完了できません。</string>
+    <string name="jgsdk_error_unknown">不明なエラーが発生しました。もう一度お試しください。またはシステム管理者にお問い合わせください。</string>
+    <string name="jgsdk_error_networking_between_device">デバイスとサーバの間でネットワーキングエラーが発生しました。</string>
+    <string name="jgsdk_error_invalid_call_state">サーバが最後のリクエストを処理できませんでした。</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">サーバがメディアコントローラと通信できませんでした。</string>
+    <string name="jgsdk_error_server_api_version_failed">Jabber Guestクライアントを、サポートされている最新バージョンに更新してください。</string>
+    <string name="jgsdk_error_no_network_connection">ネットワークに接続されていません</string>
+    <string name="jgsdk_error_no_network_connection_comment">発信するにはインターネットに接続する必要があります。</string>    
+    <string name="jgsdk_error_no_server_connection">サーバに接続していません</string>
+    <string name="jgsdk_error_no_server_connection_comment">Jabber Guestサーバにアクセスできません。</string>
+    <string name="jgsdk_error_no_WiFi_connection">WiFiに接続していません</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">良好な通話品質を得るには、WiFi接続をお勧めします。</string>
+    <string name="jgsdk_audio_output">音声出力</string>
+    <string name="jgsdk_available_audio_ouputs">使用可能な音声出力</string>
+    <string name="jgsdk_speaker">スピーカー</string>
+    <string name="jgsdk_earphone">イヤホン</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth (%s)</string>
+    <string name="jgsdk_no_video_being_received">受信したビデオはありません</string>
+    <string name="jgsdk_cisco_logo">Ciscoロゴ</string>
+    <string name="jgsdk_video_stopped">ビデオ停止</string>
+    <string name="jgsdk_certificate_warn_title">証明書が無効です</string>
+    <string name="jgsdk_certificate_warn_message">サーバから提供された証明書では、デバイスはサーバ%sのIDを確認できません。未知の相手から機密情報にアクセスされる可能性があります。</string>
+    <string name="jgsdk_accept">承諾</string>
+    <string name="jgsdk_decline">拒否</string>
+    <string name="jgsdk_call_ready">コールの準備ができました:</string>
+    <string name="jgsdk_call_ready_short">発信準備完了:</string>
+    <string name="jgsdk_call_ending">コールを終了しています…</string>
+    <string name="jgsdk_call_calling">コール中…</string>
+    <string name="jgsdk_finish_started_call">新しいコールを開始する前に、このコールを終了する必要があります。</string>
+    <string name="jgsdk_call_with">%sとコール</string>
+    <string name="jgsdk_activate_license">ライセンスを有効化する</string>
+    <string name="jgsdk_activate_license_textbody">ビデオコールを利用するには、シスコのフリービデオライセンス(H.264 AVC)を有効化してください。 \'Activate\'を選択すると、シスコエンドユーザライセンス契約および通知に同意したことになります。</string>
+    <string-array name="jgsdk_video_license_options">
+        <item>有効化</item>
+        <item>ライセンスの表示</item>
+        <item>キャンセル</item>
+    </string-array>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

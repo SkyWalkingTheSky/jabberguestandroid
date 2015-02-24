@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string-array name="jgsdk_video_license_options">
+        <item>Aktivoi</item>
+        <item>Näytä lisenssi</item>
+        <item>Peruuta</item>
+    </string-array>
+    <string name="jgsdk_accept">Hyväksy</string>
+    <string name="jgsdk_activate_license">Lisenssin aktivointi</string>
+    <string name="jgsdk_activate_license_textbody">Videopuhelujen käyttäminen edellyttää maksuttoman Cisco-videolisenssin (H.264 AVC) aktivointia. Jos valitset Aktivoi, hyväksyt Ciscon loppukäyttäjän lisenssisopimuksen ja ilmoitukset.</string>
+    <string name="jgsdk_audio">Ääni</string>
+    <string name="jgsdk_audio_muted">Ääni mykistetty</string>
+    <string name="jgsdk_audio_output">Äänentoisto</string>
+    <string name="jgsdk_audio_stats_heading">Äänitiedot</string>
+    <string name="jgsdk_available_audio_ouputs">Käytettävissä olevat äänentoistovaihtoehdot</string>
+    <string name="jgsdk_bitrate">Bittinopeus</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth (%s)</string>
+    <string name="jgsdk_call">Soita</string>
+    <string name="jgsdk_call_calling">Soitetaan…</string>
+    <string name="jgsdk_call_dropped">Puhelu katkesi</string>
+    <string name="jgsdk_call_ending">Lopetetaan puhelua…</string>
+    <string name="jgsdk_call_not_completed">Puhelua ei ole tehty</string>
+    <string name="jgsdk_call_ready">Olet nyt valmis soittamaan:</string>
+    <string name="jgsdk_call_ready_short">Valmis soittamaan:</string>
+    <string name="jgsdk_call_server_no_response">Ei vastausta palvelimesta.</string>
+    <string name="jgsdk_call_with">Puhelu: %s</string>
+    <string name="jgsdk_certificate_warn_message">Laitteesi ei voi varmistaa palvelinta %s sen antamalla varmenteella. Tuntematon osapuoli saattaa yrittää pääsyä luottamuksellisiin tietoihin.</string>
+    <string name="jgsdk_certificate_warn_title">Varmenne ei kelpaa</string>
+    <string name="jgsdk_cisco_logo">Cisco-logo</string>
+    <string name="jgsdk_control_bar_end">Lopeta</string>
+    <string name="jgsdk_control_bar_keypad">Näppäimistö</string>
+    <string name="jgsdk_control_bar_mute">Mykistys</string>
+    <string name="jgsdk_control_bar_stop">Pysäytä</string>
+    <string name="jgsdk_cumulative_pct_lost">Kumul. pakettihävikki</string>
+    <string name="jgsdk_decline">Evää</string>
+    <string name="jgsdk_default_stats_text">-</string>
+    <string name="jgsdk_dismiss_stats_btn">OK</string>
+    <string name="jgsdk_earphone">Kuuloke</string>
+    <string name="jgsdk_error_destination_busy">Henkilö, jota yrität tavoittaa, on varattu. Yritä soittaa uudelleen myöhemmin.</string>
+    <string name="jgsdk_error_invalid_call_state">Palvelin ei voinut käsitellä viimeisintä pyyntöä.</string>
+    <string name="jgsdk_error_link_disabled">Pahoittelut. Linkki ei ole käytettävissä.</string>
+    <string name="jgsdk_error_link_expired">Pahoittelut. Linkki on vanhentunut.</string>
+    <string name="jgsdk_error_link_invalid">Linkki on virheellinen.</string>
+    <string name="jgsdk_error_link_not_active">Puhelua ei tällä hetkellä yhdistää. Yritä soittaa myöhemmin uudelleen.</string>
+    <string name="jgsdk_error_link_not_found">Puhelua ei voi yhdistää.</string>
+    <string name="jgsdk_error_networking">Palvelimeen ei saada yhteyttä. Varmista, että laite on yhdistetty verkkoon.</string>
+    <string name="jgsdk_error_networking_between_device">Verkkovirhe laitteen ja palvelimen välillä.</string>
+    <string name="jgsdk_error_no_WiFi_connection">Ei Wi-Fi-yhteyttä</string>
+    <string name="jgsdk_error_no_network_connection">Ei verkkoyhteyttä</string>
+    <string name="jgsdk_error_no_network_connection_comment">Muodosta Internet-yhteys, jotta voit soittaa tämän puhelun.</string>
+    <string name="jgsdk_error_no_server_connection">Ei palvelinyhteyttä</string>
+    <string name="jgsdk_error_no_server_connection_comment">Jabber Guest -palvelimeen ei saada yhteyttä.</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">Wi-Fi-yhteyttä suositellaan puhelun laadun parantamiseksi.</string>
+    <string name="jgsdk_error_server">Linkki aiheutti palvelinvirheen.</string>
+    <string name="jgsdk_error_server_api_version_failed">Päivitä Jabber Guest -asiakassovellus uusimpaan tuettuun versioon.</string>
+    <string name="jgsdk_error_server_busy">Palvelin on varattu.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">Palvelin ei onnistunut muodostamaan yhteyttä mediaohjaimeen.</string>
+    <string name="jgsdk_error_unknown">Tuntematon virhe. Yritä uudelleen tai ota yhteyttä järjestelmänvalvojaan.</string>
+    <string name="jgsdk_finish_started_call">Tämä puhelu on lopetettava ennen uuden aloittamista.</string>
+    <string name="jgsdk_frame">Videokuva</string>
+    <string name="jgsdk_frame_rate_heading">Kuvaa/s:</string>
+    <string name="jgsdk_frame_size_heading">Kehyksen koko:</string>
+    <string name="jgsdk_generic_user_avatar">Yleisen käytön avatar</string>
+    <string name="jgsdk_jitter">Värinä</string>
+    <string name="jgsdk_keypad_button">Näppäimistön painike</string>
+    <string name="jgsdk_name_heading">Nimi:</string>
+    <string name="jgsdk_network_unavailable">Verkkoa ei voi käyttää</string>
+    <string name="jgsdk_no_video_being_received">Videota ei vastaanoteta</string>
+    <string name="jgsdk_other">Muut</string>
+    <string name="jgsdk_packets">Paketit</string>
+    <string name="jgsdk_packets_lost">Pakettihävikki</string>
+    <string name="jgsdk_payload_type_heading">Payload-tyyppi:</string>
+    <string name="jgsdk_percent_lost">Prosenttihävikki</string>
+    <string name="jgsdk_rcvr_frame_rate">Vast.ott. kuvataajuus</string>
+    <string name="jgsdk_receive">Vastaanotto</string>
+    <string name="jgsdk_receive_codec_heading">Vastaanottokoodekki</string>
+    <string name="jgsdk_resolution">Tarkkuus</string>
+    <string name="jgsdk_roundtrip_latency">RTD/viive</string>
+    <string name="jgsdk_sender_frame_rate">Lähettäjän kuvataajuus</string>
+    <string name="jgsdk_speaker">Kaiutin</string>
+    <string name="jgsdk_switch_camera">Vaihda kameraa</string>
+    <string name="jgsdk_toggle_self_view">Vaihda omaan näkymään</string>
+    <string name="jgsdk_transmit">Lähetys</string>
+    <string name="jgsdk_transmit_codec_heading">Lähetyskoodekki</string>
+    <string name="jgsdk_video">Video</string>
+    <string name="jgsdk_video_muted">Video pysäytetty</string>
+    <string name="jgsdk_video_stats_heading">Videotiedot</string>
+    <string name="jgsdk_video_stopped">Video pysäytetty</string>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

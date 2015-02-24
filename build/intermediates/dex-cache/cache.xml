@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rjp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/pre-dexed/debug/support-v4-19.1.0-f7a7fcbc258295d309759f0bd99c5a3c0fc084f4.jar" />
+    </item>
+    <item
+        jar="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/exploded-aar/LaunchSample1/sdk/unspecified/libs/jcf.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="da08e68bb529ac7ff430c677eea9ee12edd426ae">
+        <dex dex="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/pre-dexed/debug/jcf-aebe9531bc0b40307dc9e949c026c1a3c86c1223.jar" />
+    </item>
+    <item
+        jar="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/exploded-aar/LaunchSample1/sdk/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7f808c246e25cd88943bb5067ef5dc9792554550">
+        <dex dex="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/pre-dexed/debug/classes-7bb2873afb3b8da78e80244276657080a1bc482c.jar" />
+    </item>
+    <item
+        jar="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/exploded-aar/LaunchSample1/sdk/unspecified/libs/systemservice.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8a5b2822b267b930cec502a02a389e60ff61261">
+        <dex dex="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/pre-dexed/debug/systemservice-fe397e4c96f2329d2627baef71153c8d39952d55.jar" />
+    </item>
+    <item
+        jar="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/exploded-aar/LaunchSample1/sdk/unspecified/libs/jabberguest.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2d0da7bf9a8c4d6e87baf5271c3a033abc719a7d">
+        <dex dex="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/pre-dexed/debug/jabberguest-ada87b5cbeb04b6a07240e946c4db598a888dbf2.jar" />
+    </item>
+    <item
+        jar="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/exploded-aar/LaunchSample1/sdk/unspecified/libs/configservice.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="890a448d20731885cf4fabd367f7917b52afa61d">
+        <dex dex="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/pre-dexed/debug/configservice-1f1db8f066fbcad025ce1ce7829860e51f5ceb65.jar" />
+    </item>
+    <item
+        jar="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/exploded-aar/LaunchSample1/sdk/unspecified/libs/servicesframework.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1f7a83d7b89942b089053d0aa71f061fe7cc60ea">
+        <dex dex="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/pre-dexed/debug/servicesframework-b9c206020884253dcf5fff5366ea0499a1ffc5b9.jar" />
+    </item>
+    <item
+        jar="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/exploded-aar/LaunchSample1/sdk/unspecified/libs/jabbercservice.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a40d43f111759ff737fc59ed1d99f9a7f1e51fca">
+        <dex dex="/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/launchSample/build/intermediates/pre-dexed/debug/jabbercservice-b417f00e50b82fec2185640b8e539a7e7b6cf5ce.jar" />
+    </item>
+
+</items>

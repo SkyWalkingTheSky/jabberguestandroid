@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/jgsdk_call_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/jgsdk_dark_gray_gradient"
+    class="com.cisco.jabber.guest.CallFragment$InterceptingRelativeLayout" >
+
+    <com.cisco.jabber.guest.RemoteView
+        android:id="@+id/jgsdk_remote_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.cisco.jabber.guest.SelfView
+        android:id="@+id/jgsdk_self_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:maxHeight="200dp"
+        android:maxWidth="175dp"
+        android:minWidth="125dp"
+        android:padding="4dp" />
+
+    <com.cisco.jabber.guest.CallBarView
+        android:id="@+id/jgsdk_call_bar_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp" />
+
+    <ImageView
+        android:id="@+id/jgsdk_tag_mute_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/jgsdk_bkgd_docklet_left"
+        android:contentDescription="@string/jgsdk_video_muted"
+        android:padding="10dp"
+        android:src="@drawable/jgsdk_ic_video_stopped"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/jgsdk_tag_mute_audio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_below="@id/jgsdk_tag_mute_video"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/jgsdk_bkgd_docklet_left"
+        android:contentDescription="@string/jgsdk_audio_muted"
+        android:padding="10dp"
+        android:src="@drawable/jgsdk_ic_audio_muted"
+        android:visibility="invisible" />
+
+    <include
+        android:id="@+id/jgsdk_stats_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        layout="@layout/jgsdk_stats_view"
+        android:visibility="gone" />
+
+</view><!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/layout/jgsdk_call_fragment.xml -->

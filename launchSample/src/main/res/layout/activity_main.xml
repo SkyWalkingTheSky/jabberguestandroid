@@ -1,0 +1,114 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/jgsdk_dark_gray_gradient"
+    android:weightSum="1">
+
+    <!-- Hidden TextView to indicate if the JabberC client could not be found -->
+    <LinearLayout
+        android:id="@+id/jabberc_warning"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:background="#ff0d1399"
+        android:padding="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/jabberc_not_found"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/getJabberGuestButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/get_jabber_guest"
+            android:layout_gravity="center"
+            android:padding="20dp" />
+
+    </LinearLayout>
+
+
+    <!-- The following section shows the simple case of a Button embedded with the call information -->
+
+    <Button
+        android:id="@+id/callNowButton"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+
+        android:layout_width="270dp"
+        android:layout_height="60dp"
+        android:background="@drawable/buttonshape"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+
+        android:text="@string/call"
+        android:layout_marginTop="96dp"
+        android:layout_below="@+id/jabberc_warning"
+        android:layout_alignLeft="@+id/callNowButton1"
+        android:layout_alignStart="@+id/callNowButton1" />
+
+
+    <Button
+        android:id="@+id/callNowButton2"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+
+        android:layout_width="270dp"
+        android:layout_height="60dp"
+        android:background="@drawable/buttonshape"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+
+        android:text="@string/call2"
+        android:layout_marginTop="87dp"
+        android:layout_below="@+id/callNowButton1"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/callNowButton1"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+
+        android:layout_width="270dp"
+        android:layout_height="60dp"
+        android:background="@drawable/buttonshape"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:text="@string/call1"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="81dp"
+        android:layout_below="@+id/callNowButton"
+        android:layout_alignLeft="@+id/callNowButton2"
+        android:layout_alignStart="@+id/callNowButton2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/tekst"
+        android:id="@+id/textView"
+        android:layout_marginBottom="93dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <!-- The following section shows the Server and Address EditTexts and Button combination for allowing the User to pick the number -->
+
+</RelativeLayout>

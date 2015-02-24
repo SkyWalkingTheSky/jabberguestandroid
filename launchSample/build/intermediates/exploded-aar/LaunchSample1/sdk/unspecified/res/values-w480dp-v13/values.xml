@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values-w480dp/styles.xml -->
+    <eat-comment/>
+    <style name="jgsdk_button.preview">
+        <item name="android:layout_width">300dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal|center_vertical</item>
+        <item name="android:layout_margin">16dp</item>
+    </style>
+</resources>

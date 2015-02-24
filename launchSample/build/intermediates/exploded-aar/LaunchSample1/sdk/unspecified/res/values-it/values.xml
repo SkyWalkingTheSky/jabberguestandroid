@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string-array name="jgsdk_video_license_options">
+        <item>Attiva</item>
+        <item>Visualizza licenza</item>
+        <item>Annulla</item>
+    </string-array>
+    <string name="jgsdk_accept">Accetta</string>
+    <string name="jgsdk_activate_license">Attiva licenza</string>
+    <string name="jgsdk_activate_license_textbody">Per abilitare le videochiamate, attivare una licenza video gratuita (H.264 AVC) di Cisco. Selezionando \'Attiva\', si accettano il Contratto con l\'utente finale e le notifiche di Cisco.</string>
+    <string name="jgsdk_audio">Audio</string>
+    <string name="jgsdk_audio_muted">Audio disattivato</string>
+    <string name="jgsdk_audio_output">Output audio</string>
+    <string name="jgsdk_audio_stats_heading">Statistiche audio</string>
+    <string name="jgsdk_available_audio_ouputs">Uscite audio disponibili</string>
+    <string name="jgsdk_bitrate">Velocità in bit</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth (%s)</string>
+    <string name="jgsdk_call">Chiama</string>
+    <string name="jgsdk_call_calling">Chiamata in corso…</string>
+    <string name="jgsdk_call_dropped">Chiamata interrotta</string>
+    <string name="jgsdk_call_ending">Fine chiamata in corso…</string>
+    <string name="jgsdk_call_not_completed">Chiamata non completata</string>
+    <string name="jgsdk_call_ready">Pronto a chiamare:</string>
+    <string name="jgsdk_call_ready_short">Pronto a chiamare:</string>
+    <string name="jgsdk_call_server_no_response">Nessuna risposta dal server.</string>
+    <string name="jgsdk_call_with">Chiamata con %s</string>
+    <string name="jgsdk_certificate_warn_message">Il dispositivo non può confermare l\'identità del server %s con il certificato che il server ha fornito. Sconosciuti potrebbero tentare di accedere ad informazioni riservate.</string>
+    <string name="jgsdk_certificate_warn_title">Certificato non valido</string>
+    <string name="jgsdk_cisco_logo">Logo di Cisco</string>
+    <string name="jgsdk_control_bar_end">Fine</string>
+    <string name="jgsdk_control_bar_keypad">Tastiera</string>
+    <string name="jgsdk_control_bar_mute">Disattiva audio</string>
+    <string name="jgsdk_control_bar_stop">Interrompi</string>
+    <string name="jgsdk_cumulative_pct_lost">Percentuale totale persi</string>
+    <string name="jgsdk_decline">Rifiuta</string>
+    <string name="jgsdk_default_stats_text">N/D</string>
+    <string name="jgsdk_dismiss_stats_btn">OK</string>
+    <string name="jgsdk_earphone">Auricolari</string>
+    <string name="jgsdk_error_destination_busy">La persona che si sta tentando di raggiungere è occupata. Riprovare a chiamare più tardi.</string>
+    <string name="jgsdk_error_invalid_call_state">Impossibile elaborare la richiesta più recente da parte del server.</string>
+    <string name="jgsdk_error_link_disabled">Collegamento apparentemente disabilitato.</string>
+    <string name="jgsdk_error_link_expired">Collegamento apparentemente scaduto.</string>
+    <string name="jgsdk_error_link_invalid">Collegamento non valido.</string>
+    <string name="jgsdk_error_link_not_active">Ancora impossibile completare la chiamata. Riprovare a chiamare più tardi.</string>
+    <string name="jgsdk_error_link_not_found">Impossibile completare la chiamata.</string>
+    <string name="jgsdk_error_networking">Impossibile raggiungere il server. Assicurarsi che il dispositivo sia connesso alla rete.</string>
+    <string name="jgsdk_error_networking_between_device">Si è verificato un errore di rete tra il dispositivo e il server.</string>
+    <string name="jgsdk_error_no_WiFi_connection">Nessuna connessione Wi-Fi</string>
+    <string name="jgsdk_error_no_network_connection">Nessuna connessione di rete.</string>
+    <string name="jgsdk_error_no_network_connection_comment">Per effettuare la chiamata è necessario essere connessi a Internet.</string>
+    <string name="jgsdk_error_no_server_connection">Nessuna connessione server</string>
+    <string name="jgsdk_error_no_server_connection_comment">Server Jabber Guest non raggiungibile.</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">Si consiglia una connessione Wi-Fi per una migliore qualità della chiamata.</string>
+    <string name="jgsdk_error_server">Il collegamento ha restituito un errore del server.</string>
+    <string name="jgsdk_error_server_api_version_failed">Aggiornare il client Jabber Guest alla versione più recente supportata.</string>
+    <string name="jgsdk_error_server_busy">Server occupato.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">Impossibile comunicare con il controller multimediale da parte del server.</string>
+    <string name="jgsdk_error_unknown">Si è verificato un errore sconosciuto. Riprovare o contattare l\'amministratore di sistema.</string>
+    <string name="jgsdk_finish_started_call">È necessario concludere una chiamata prima di iniziarne una nuova.</string>
+    <string name="jgsdk_frame">Fotogramma</string>
+    <string name="jgsdk_frame_rate_heading">FPS:</string>
+    <string name="jgsdk_frame_size_heading">Dimensioni fotogrammi:</string>
+    <string name="jgsdk_generic_user_avatar">Avatar utente generico</string>
+    <string name="jgsdk_jitter">Jitter</string>
+    <string name="jgsdk_keypad_button">Pulsante tastiera</string>
+    <string name="jgsdk_name_heading">Nome:</string>
+    <string name="jgsdk_network_unavailable">Rete non disponibile</string>
+    <string name="jgsdk_no_video_being_received">Nessun video ricevuto</string>
+    <string name="jgsdk_other">Altro</string>
+    <string name="jgsdk_packets">Pacchetti</string>
+    <string name="jgsdk_packets_lost">Pacchetti persi</string>
+    <string name="jgsdk_payload_type_heading">Tipo payload:</string>
+    <string name="jgsdk_percent_lost">Percentuale persi</string>
+    <string name="jgsdk_rcvr_frame_rate">Frequenza fotogrammi ricevitore</string>
+    <string name="jgsdk_receive">Ricevi</string>
+    <string name="jgsdk_receive_codec_heading">Ricevi codec</string>
+    <string name="jgsdk_resolution">Risoluzione</string>
+    <string name="jgsdk_roundtrip_latency">Roundtrip/Latenza</string>
+    <string name="jgsdk_sender_frame_rate">Frequenza fotogramma mittente</string>
+    <string name="jgsdk_speaker">Vivavoce</string>
+    <string name="jgsdk_switch_camera">Cambia fotocamera</string>
+    <string name="jgsdk_toggle_self_view">Attiva/disattiva visualizzazione autonoma</string>
+    <string name="jgsdk_transmit">Trasmetti</string>
+    <string name="jgsdk_transmit_codec_heading">Trasmetti codec</string>
+    <string name="jgsdk_video">Video</string>
+    <string name="jgsdk_video_muted">Video interrotto</string>
+    <string name="jgsdk_video_stats_heading">Statistiche video</string>
+    <string name="jgsdk_video_stopped">Video interrotto</string>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

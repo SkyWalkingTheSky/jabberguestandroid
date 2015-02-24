@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jabberguest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sdk/libs/jabberguest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

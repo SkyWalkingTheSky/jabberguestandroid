@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <TextureView
+        android:id="@+id/jgsdk_texture"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ProgressBar
+        android:id="@+id/jgsdk_selfview_progressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:indeterminateOnly="true"
+        android:visibility="gone" />
+
+   <LinearLayout
+       	android:layout_width="match_parent"
+       	android:layout_height="wrap_content"
+       	android:layout_gravity="bottom"
+       	android:orientation="vertical">
+	    <TextView
+	        android:id="@+id/jgsdk_video_stopped_text"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/jgsdk_bkgd_text"
+	        android:gravity="center"
+	        android:text="@string/jgsdk_video_muted"
+	        android:textColor="@android:color/white"
+	        android:visibility="gone" />
+	    
+	    <ImageView
+	        android:id="@+id/jgsdk_switch_camera"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"
+	        android:contentDescription="@string/jgsdk_switch_camera"
+	        android:paddingTop="4dp"
+	        android:src="@drawable/jgsdk_ic_switch_camera" />
+    </LinearLayout> 
+</merge>

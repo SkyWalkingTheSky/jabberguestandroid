@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jabbercservice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sdk/libs/jabbercservice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

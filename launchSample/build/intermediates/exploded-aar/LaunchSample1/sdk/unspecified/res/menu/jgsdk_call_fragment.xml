@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" >
+
+    <item 
+        tools:ignore="AlwaysShowAction"
+        android:id="@+id/jgsdk_item_audio_output"
+        android:actionProviderClass="com.cisco.jabber.guest.AudioOutputActionProvider"
+        android:icon="@drawable/jgsdk_ic_menu_speaker"
+        android:showAsAction="always"
+        android:title="@string/jgsdk_audio_output"
+        android:visible="true"/>
+    <item 
+        tools:ignore="AlwayShowAction"
+        android:id="@+id/jgsdk_item_show_self_view"
+        android:icon="@drawable/jgsdk_ic_menu_toggle_selfview_default"
+        android:showAsAction="always"
+        android:title="@string/jgsdk_toggle_self_view"
+        android:visible="true"/>
+
+</menu><!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/menu/jgsdk_call_fragment.xml -->

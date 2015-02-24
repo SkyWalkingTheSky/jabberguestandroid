@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="systemservice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sdk/libs/systemservice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

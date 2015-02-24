@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/jgsdk_dialpad_background"
+    android:columnCount="3"
+    android:padding="4dp"
+    android:layoutDirection="ltr">
+
+    <TextView
+        android:id="@+id/jgsdk_digits_entered"
+        android:layout_columnSpan="3"
+        android:layout_gravity="fill_horizontal"
+        android:layout_margin="2dp"
+        android:background="@drawable/jgsdk_dialpad_entered_digits"
+        android:gravity="center"
+        android:maxLines="1"
+        android:textColor="#666666"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/jgsdk_dial1"
+        android:layout_margin="2dp"
+        android:contentDescription="@string/jgsdk_keypad_button"
+        android:src="@drawable/jgsdk_btn_1"
+        android:tag="1" />
+
+    <ImageView
+        android:id="@+id/jgsdk_dial2"
+        android:layout_margin="2dp"
+        android:contentDescription="@string/jgsdk_keypad_button"
+        android:src="@drawable/jgsdk_btn_2"
+        android:tag="2" />
+
+    <ImageView
+        android:id="@+id/jgsdk_dial3"
+        android:layout_margin="2dp"
+        android:contentDescription="@string/jgsdk_keypad_button"
+        android:src="@drawable/jgsdk_btn_3"
+        android:tag="3" />
+
+    <ImageView
+        android:id="@+id/jgsdk_dial4"
+        android:layout_margin="2dp"
+        android:contentDescription="@string/jgsdk_keypad_button"
+        android:src="@drawable/jgsdk_btn_4"
+        android:tag="4" />
+
+    <ImageView
+        android:id="@+id/jgsdk_dial5"
+        android:layout_margin="2dp"
+        android:contentDescription="@string/jgsdk_keypad_button"
+        android:src="@drawable/jgsdk_btn_5"
+        android:tag="5" />
+
+    <ImageView
+        android:id="@+id/jgsdk_dial6"
+        android:layout_margin="2dp"
+        android:contentDescription="@string/jgsdk_keypad_button"
+        android:src="@drawable/jgsdk_btn_6"
+        android:tag="6" />
+
+    <ImageView
+        android:id="@+id/jgsdk_dial7"
+        android:layout_margin="2dp"
+        android:contentDescription="@string/jgsdk_keypad_button"
+        android:src="@drawable/jgsdk_btn_7"
+        android:tag="7" />
+
+    <ImageView
+        android:id="@+id/jgsdk_dial8"
+        android:layout_margin="2dp"
+        android:contentDescription="@string/jgsdk_keypad_button"
+        android:src="@drawable/jgsdk_btn_8"
+        android:tag="8" />
+
+    <ImageView
+        android:id="@+id/jgsdk_dial9"
+        android:layout_margin="2dp"
+        android:contentDescription="@string/jgsdk_keypad_button"
+        android:src="@drawable/jgsdk_btn_9"
+        android:tag="9" />
+
+    <ImageView
+        android:id="@+id/jgsdk_dial_star"
+        android:layout_margin="2dp"
+        android:contentDescription="@string/jgsdk_keypad_button"
+        android:src="@drawable/jgsdk_btn_10"
+        android:tag="*" />
+
+    <ImageView
+        android:id="@+id/jgsdk_dial0"
+        android:layout_margin="2dp"
+        android:contentDescription="@string/jgsdk_keypad_button"
+        android:src="@drawable/jgsdk_btn_0"
+        android:tag="0" />
+
+    <ImageView
+        android:id="@+id/jgsdk_dial_hash"
+        android:layout_margin="2dp"
+        android:contentDescription="@string/jgsdk_keypad_button"
+        android:src="@drawable/jgsdk_btn_hash"
+        android:tag="#" />
+
+</GridLayout><!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/layout/jgsdk_keypad.xml -->

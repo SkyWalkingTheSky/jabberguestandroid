@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="jgsdk_call">Κλήση</string>
+    <string name="jgsdk_switch_camera">Αλλαγή κάμερας</string>
+    <string name="jgsdk_network_unavailable">Το δίκτυο δεν είναι διαθέσιμο</string>
+    <string name="jgsdk_generic_user_avatar">Γενικό άβαταρ χρήστη</string>
+    <string name="jgsdk_toggle_self_view">Εναλλαγή της δικής μου εικόνας</string>
+    <string name="jgsdk_audio_muted">Έγινε σίγαση του ήχου</string>
+    <string name="jgsdk_video_muted">Το βίντεο διακόπηκε</string>
+    <string name="jgsdk_keypad_button">Κουμπί πληκτρολογίου</string>
+    <string name="jgsdk_control_bar_mute">Σίγαση</string>
+    <string name="jgsdk_control_bar_stop">Διακοπή</string>
+    <string name="jgsdk_control_bar_keypad">Πληκτρολόγιο</string>
+    <string name="jgsdk_control_bar_end">Τερματισμός</string>
+    
+    <!-- call statistics page -->
+    <string name="jgsdk_audio_stats_heading">Στατιστικά ήχου</string>
+    <string name="jgsdk_video_stats_heading">Στατιστικά βίντεο</string>
+    <string name="jgsdk_transmit_codec_heading">Codec μετάδοσης</string>
+    <string name="jgsdk_receive_codec_heading">Codec λήψης</string>
+    <string name="jgsdk_name_heading">Όνομα:</string>
+    <string name="jgsdk_payload_type_heading">Τύπος ωφέλιμου φορτίου:</string>
+    <string name="jgsdk_frame_rate_heading">FPS:</string>
+    <string name="jgsdk_frame_size_heading">Μέγεθος καρέ:</string>
+    <string name="jgsdk_default_stats_text">Μ/Δ</string>
+    <string name="jgsdk_dismiss_stats_btn">OK</string>
+    
+    <string name="jgsdk_video">Βίντεο</string>
+    <string name="jgsdk_audio">Ήχος</string>
+    <string name="jgsdk_transmit">Μετάδοση</string>
+    <string name="jgsdk_packets">Πακέτα</string>
+    <string name="jgsdk_packets_lost">Πακέτα που χάθηκαν</string>
+    <string name="jgsdk_percent_lost">Ποσοστό απώλειας</string>
+    <string name="jgsdk_cumulative_pct_lost">Αθροιστική απώλεια πακέτων</string>
+    <string name="jgsdk_frame">Πλαίσιο</string>
+    <string name="jgsdk_resolution">Ανάλυση</string>
+    <string name="jgsdk_sender_frame_rate">Ρυθμός καρέ πομπού</string>
+    <string name="jgsdk_other">Άλλο</string>
+    <string name="jgsdk_bitrate">Bitrate</string>
+    <string name="jgsdk_jitter">Παραμόρφωση χρονισμού</string>
+    <string name="jgsdk_roundtrip_latency">Ταξίδι με επιστροφή/Καθυστέρηση</string>
+    <string name="jgsdk_receive">Λήψη</string>
+    <string name="jgsdk_rcvr_frame_rate">Ρυθμός καρέ δέκτη</string>        
+    <!-- call statistics page -->
+    
+    <string name="jgsdk_call_dropped">Η κλήση διεκόπη</string>
+    <string name="jgsdk_call_not_completed">Η κλήση δεν ολοκληρώθηκε</string>
+    <string name="jgsdk_call_server_no_response">Καμία απόκριση από το διακομιστή.</string>
+    <string name="jgsdk_error_server">Ο σύνδεσμος κατέληξε σε σφάλμα διακομιστή.</string>
+    <string name="jgsdk_error_networking">Δεν είναι δυνατή η επικοινωνία με το διακομιστή. Βεβαιωθείτε ότι η συσκευή σας είναι συνδεδεμένη στο δίκτυο.</string>
+    <string name="jgsdk_error_server_busy">Ο διακομιστής είναι απασχολημένος.</string>
+    <string name="jgsdk_error_destination_busy">Δυστυχώς, το άτομο με το οποίο προσπαθείτε να επικοινωνήσετε είναι απασχολημένο. Δοκιμάστε να επαναλάβετε την κλήση αργότερα.</string>
+    <string name="jgsdk_error_link_not_active">Δυστυχώς, δεν είναι δυνατή η ολοκλήρωση της κλήσης σας. Δοκιμάστε να επαναλάβετε την κλήση αργότερα.</string>
+    <string name="jgsdk_error_link_expired">Δυστυχώς, φαίνεται πως αυτή η σύνδεση έχει λήξει.</string>
+    <string name="jgsdk_error_link_disabled">Δυστυχώς, φαίνεται πως αυτή η σύνδεση απενεργοποιήθηκε.</string>
+    <string name="jgsdk_error_link_invalid">Ο σύνδεσμος δεν είναι έγκυρος.</string>
+    <string name="jgsdk_error_link_not_found">Δυστυχώς, δεν είναι δυνατή η ολοκλήρωση της κλήσης σας.</string>
+    <string name="jgsdk_error_unknown">Προέκυψε άγνωστο σφάλμα - Προσπαθήστε ξανά ή επικοινωνήστε με το διαχειριστή του συστήματος.</string>
+    <string name="jgsdk_error_networking_between_device">Παρουσιάστηκε σφάλμα δικτύωσης μεταξύ της συσκευής σας και του διακομιστή.</string>
+    <string name="jgsdk_error_invalid_call_state">Δεν ήταν δυνατή η επεξεργασία του τελευταίου αιτήματος από το διακομιστή.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">Ο διακομιστής δεν μπόρεσε να επικοινωνήσει με τον ελεγκτή πολυμέσων.</string>
+    <string name="jgsdk_error_server_api_version_failed">Ενημερώστε το πρόγραμμα-πελάτη Jabber Guest στην πιο πρόσφατη υποστηριζόμενη έκδοση.</string>
+    <string name="jgsdk_error_no_network_connection">Δεν υπάρχει σύνδεση δικτύου</string>
+    <string name="jgsdk_error_no_network_connection_comment">Πρέπει να συνδεθείτε στο Internet για να πραγματοποιήσετε αυτήν την κλήση.</string>    
+    <string name="jgsdk_error_no_server_connection">Δεν υπάρχει σύνδεση διακομιστή</string>
+    <string name="jgsdk_error_no_server_connection_comment">Δεν είναι δυνατή η επικοινωνία με το διακομιστή Jabber Guest.</string>
+    <string name="jgsdk_error_no_WiFi_connection">Δεν υπάρχει σύνδεση Wi-Fi</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">Για καλύτερη ποιότητα κλήσης, προτείνεται η χρήση σύνδεσης Wi-Fi.</string>
+    <string name="jgsdk_audio_output">Έξοδος ήχου</string>
+    <string name="jgsdk_available_audio_ouputs">Διαθέσιμες έξοδοι ήχου</string>
+    <string name="jgsdk_speaker">Ηχείο</string>
+    <string name="jgsdk_earphone">Ακουστικό</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth (%s)</string>
+    <string name="jgsdk_no_video_being_received">Δεν γίνεται λήψη βίντεο</string>
+    <string name="jgsdk_cisco_logo">Λογότυπο Cisco</string>
+    <string name="jgsdk_video_stopped">Το βίντεο διακόπηκε</string>
+    <string name="jgsdk_certificate_warn_title">Μη έγκυρο πιστοποιητικό</string>
+    <string name="jgsdk_certificate_warn_message">Η συσκευή σας δεν μπορεί να επιβεβαιώσει την ταυτότητα του server %s σχετικά με το πιστοποιητικό που έστειλε ο server. Μια άγνωστη ομάδα ίσως επιχειρεί πρόσβαση σε απόρρητες πληροφορίες σας.</string>
+    <string name="jgsdk_accept">Αποδοχή</string>
+    <string name="jgsdk_decline">Απόρριψη</string>
+    <string name="jgsdk_call_ready">Είστε έτοιμοι για την κλήση:</string>
+    <string name="jgsdk_call_ready_short">Έτοιμο για κλήση:</string>
+    <string name="jgsdk_call_ending">Τερματισμός κλήσης&#8230;</string>
+    <string name="jgsdk_call_calling">Γίνεται κλήση&#8230;</string>
+    <string name="jgsdk_finish_started_call">Πρέπει να τερματίσετε αυτήν την κλήση πριν την έναρξη νέας.</string>
+    <string name="jgsdk_call_with">Κλήση με %s</string>
+    <string name="jgsdk_activate_license">Ενεργοποίηση άδειας χρήσης</string>
+    <string name="jgsdk_activate_license_textbody">Για την ενεργοποίηση της δυνατότητας κλήσεων βίντεο, ενεργοποιήστε μια δωρεάν άδεια βίντεο (H.264 AVC) από την Cisco. Επιλέγοντας \"Ενεργοποίηση\", αποδέχεστε την Άδεια χρήσης τελικού χρήστη και τις νομικές σημειώσεις της Cisco.</string>
+    <string-array name="jgsdk_video_license_options">
+        <item>Ενεργοποίηση</item>
+        <item>Προβολή άδειας</item>
+        <item>Άκυρο</item>
+    </string-array>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="jgsdk_call">Chamada</string>
+    <string name="jgsdk_switch_camera">Alterar câmara</string>
+    <string name="jgsdk_network_unavailable">Rede indisponível</string>
+    <string name="jgsdk_generic_user_avatar">Avatar de utilizador genérico</string>
+    <string name="jgsdk_toggle_self_view">Comutar auto-visualização</string>
+    <string name="jgsdk_audio_muted">Áudio silenciado</string>
+    <string name="jgsdk_video_muted">Vídeo parado</string>
+    <string name="jgsdk_keypad_button">Botão do teclado</string>
+    <string name="jgsdk_control_bar_mute">Silêncio</string>
+    <string name="jgsdk_control_bar_stop">Parar</string>
+    <string name="jgsdk_control_bar_keypad">Teclado</string>
+    <string name="jgsdk_control_bar_end">Fim</string>
+    
+    <!-- call statistics page -->
+    <string name="jgsdk_audio_stats_heading">Estatísticas de áudio</string>
+    <string name="jgsdk_video_stats_heading">Estatísticas de vídeo</string>
+    <string name="jgsdk_transmit_codec_heading">Transmitir codec</string>
+    <string name="jgsdk_receive_codec_heading">Receber codec</string>
+    <string name="jgsdk_name_heading">Nome:</string>
+    <string name="jgsdk_payload_type_heading">Tipo de payload:</string>
+    <string name="jgsdk_frame_rate_heading">FPS:</string>
+    <string name="jgsdk_frame_size_heading">Tamanho de frame:</string>
+    <string name="jgsdk_default_stats_text">N/A</string>
+    <string name="jgsdk_dismiss_stats_btn">OK</string>
+    
+    <string name="jgsdk_video">Vídeo</string>
+    <string name="jgsdk_audio">Áudio</string>
+    <string name="jgsdk_transmit">Transmitir</string>
+    <string name="jgsdk_packets">Pacotes</string>
+    <string name="jgsdk_packets_lost">Pacotes Perdidos</string>
+    <string name="jgsdk_percent_lost">Percentagem Perdida</string>
+    <string name="jgsdk_cumulative_pct_lost">Percentagem Cumulativa Perdida</string>
+    <string name="jgsdk_frame">Estrutura</string>
+    <string name="jgsdk_resolution">Resolução</string>
+    <string name="jgsdk_sender_frame_rate">Velocidade de Fotogramas do Remetente</string>
+    <string name="jgsdk_other">Outros</string>
+    <string name="jgsdk_bitrate">Taxa de bits</string>
+    <string name="jgsdk_jitter">Distorção de imagem</string>
+    <string name="jgsdk_roundtrip_latency">Ida e Volta/Latência</string>
+    <string name="jgsdk_receive">Receber</string>
+    <string name="jgsdk_rcvr_frame_rate">Velocidade de Fotogramas do Receptor</string>        
+    <!-- call statistics page -->
+    
+    <string name="jgsdk_call_dropped">Chamada caiu</string>
+    <string name="jgsdk_call_not_completed">Chamada não concluída</string>
+    <string name="jgsdk_call_server_no_response">Sem resposta do servidor.</string>
+    <string name="jgsdk_error_server">A ligação teve como consequência um erro de servidor.</string>
+    <string name="jgsdk_error_networking">Não foi possível contactar o servidor. Assegure-se de que o seu dispositivo está ligado à rede.</string>
+    <string name="jgsdk_error_server_busy">O servidor está ocupado.</string>
+    <string name="jgsdk_error_destination_busy">Lamentamos, mas a pessoa que está a tentar contactar está ocupada. Tente ligar novamente mais tarde.</string>
+    <string name="jgsdk_error_link_not_active">Lamentamos, mas a sua chamada ainda não pode ser concluída. Tente ligar novamente mais tarde.</string>
+    <string name="jgsdk_error_link_expired">Lamentamos, mas parece que esta ligação expirou.</string>
+    <string name="jgsdk_error_link_disabled">Lamentamos, mas parece que esta ligação está desactivada.</string>
+    <string name="jgsdk_error_link_invalid">A ligação não é válida.</string>
+    <string name="jgsdk_error_link_not_found">Lamentamos, mas a sua ligação não pode ser concluída.</string>
+    <string name="jgsdk_error_unknown">Ocorreu um erro desconhecido - Tente novamente ou contacte o administrador do sistema.</string>
+    <string name="jgsdk_error_networking_between_device">Ocorreu um erro de rede entre o seu dispositivo e o servidor.</string>
+    <string name="jgsdk_error_invalid_call_state">O servidor não conseguiu processar o último pedido.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">O servidor não conseguiu comunicar com o controlador multimédia.</string>
+    <string name="jgsdk_error_server_api_version_failed">Actualize o cliente Jabber Guest para a versão mais recente suportada.</string>
+    <string name="jgsdk_error_no_network_connection">Sem ligação de rede</string>
+    <string name="jgsdk_error_no_network_connection_comment">Tem de estar ligado à Internet para fazer esta chamada.</string>    
+    <string name="jgsdk_error_no_server_connection">Sem ligação ao servidor</string>
+    <string name="jgsdk_error_no_server_connection_comment">O servidor Jabber Guest não está contactável.</string>
+    <string name="jgsdk_error_no_WiFi_connection">Sem ligação Wi-Fi</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">Para uma melhor qualidade da chamada, recomenda-se uma ligação Wi-Fi.</string>
+    <string name="jgsdk_audio_output">Saída de áudio</string>
+    <string name="jgsdk_available_audio_ouputs">Saídas de áudio disponíveis</string>
+    <string name="jgsdk_speaker">Altifalante</string>
+    <string name="jgsdk_earphone">Auscultador</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth (%s)</string>
+    <string name="jgsdk_no_video_being_received">Não estão a ser recebidos vídeos</string>
+    <string name="jgsdk_cisco_logo">Logótipo Cisco</string>
+    <string name="jgsdk_video_stopped">Vídeo parado</string>
+    <string name="jgsdk_certificate_warn_title">O certificado é inválido</string>
+    <string name="jgsdk_certificate_warn_message">O dispositivo não pode confirmar a identidade do servidor %s com o certificado que o servidor forneceu. Uma parte desconhecida pode estar a tentar aceder às suas informações confidenciais.</string>
+    <string name="jgsdk_accept">Aceitar</string>
+    <string name="jgsdk_decline">Recusar</string>
+    <string name="jgsdk_call_ready">Está agora pronto para ligar:</string>
+    <string name="jgsdk_call_ready_short">Pronto para ligar:</string>
+    <string name="jgsdk_call_ending">A terminar chamada&#8230;</string>
+    <string name="jgsdk_call_calling">A chamar&#8230;</string>
+    <string name="jgsdk_finish_started_call">Tem de terminar esta chamada antes de iniciar uma nova chamada.</string>
+    <string name="jgsdk_call_with">Chamada com %s</string>
+    <string name="jgsdk_activate_license">Activar Licença</string>
+    <string name="jgsdk_activate_license_textbody">Para activar chamadas de vídeo, active uma licença de vídeo gratuita (H.264 AVC) da Cisco. Ao seleccionar \"Activar\", aceita o Contrato de Licença de Utilizador Final e os avisos da Cisco.</string>
+    <string-array name="jgsdk_video_license_options">
+        <item>Activar</item>
+        <item>Ver Licença</item>
+        <item>Cancelar</item>
+    </string-array>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

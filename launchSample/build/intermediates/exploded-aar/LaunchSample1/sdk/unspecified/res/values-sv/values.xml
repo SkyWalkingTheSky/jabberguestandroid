@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values-sv/strings.xml -->
+    <eat-comment/>
+    <string-array name="jgsdk_video_license_options">
+        <item>Aktivera</item>
+        <item>Visa licens</item>
+        <item>Avbryt</item>
+    </string-array>
+    <string name="jgsdk_accept">Acceptera</string>
+    <string name="jgsdk_activate_license">Aktivera licens</string>
+    <string name="jgsdk_activate_license_textbody">För att aktivera videosamtal ska du aktivera en kostnadsfri videolicens (H.264 AVC) från Cisco. Genom att välja \'Aktivera\' godkänner du Ciscos licensavtal för slutanvändare och meddelanden.</string>
+    <string name="jgsdk_audio">Ljud</string>
+    <string name="jgsdk_audio_muted">Ljudet avstängt</string>
+    <string name="jgsdk_audio_output">Ljudutgång</string>
+    <string name="jgsdk_audio_stats_heading">Ljudstatistik</string>
+    <string name="jgsdk_available_audio_ouputs">Tillgängliga ljudutgångar</string>
+    <string name="jgsdk_bitrate">Bithastighet</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth (%s)</string>
+    <string name="jgsdk_call">Ring</string>
+    <string name="jgsdk_call_calling">Ringer…</string>
+    <string name="jgsdk_call_dropped">Samtal avslutat</string>
+    <string name="jgsdk_call_ending">Avslutar samtalet…</string>
+    <string name="jgsdk_call_not_completed">Samtalet genomfördes inte</string>
+    <string name="jgsdk_call_ready">Nu kan du ringa:</string>
+    <string name="jgsdk_call_ready_short">Redo att ringa:</string>
+    <string name="jgsdk_call_server_no_response">Inget svar från servern.</string>
+    <string name="jgsdk_call_with">Samtal med %s</string>
+    <string name="jgsdk_certificate_warn_message">Din enhet kan ej bekräfta identiteten på server %s med det certifikat som servern har tillhandahållit. En okänd part kan försöka få tillgång till konfidentiell information.</string>
+    <string name="jgsdk_certificate_warn_title">Certifikatet har gått ut</string>
+    <string name="jgsdk_cisco_logo">Cisco-logotyp</string>
+    <string name="jgsdk_control_bar_end">Avsluta</string>
+    <string name="jgsdk_control_bar_keypad">Knappsats</string>
+    <string name="jgsdk_control_bar_mute">Ljud av</string>
+    <string name="jgsdk_control_bar_stop">Stoppa</string>
+    <string name="jgsdk_cumulative_pct_lost">Total förslut i procent</string>
+    <string name="jgsdk_decline">Neka</string>
+    <string name="jgsdk_default_stats_text">–</string>
+    <string name="jgsdk_dismiss_stats_btn">OK</string>
+    <string name="jgsdk_earphone">Hörlur</string>
+    <string name="jgsdk_error_destination_busy">Personen du försöker att nå är upptagen. Försök att ringa ditt samtal igen senare.</string>
+    <string name="jgsdk_error_invalid_call_state">Servern kunde inte behandla den senaste förfrågan.</string>
+    <string name="jgsdk_error_link_disabled">Länken verkar ha inaktiverats.</string>
+    <string name="jgsdk_error_link_expired">Länken verkar ha upphört att gälla.</string>
+    <string name="jgsdk_error_link_invalid">Länken är ogiltig.</string>
+    <string name="jgsdk_error_link_not_active">Det går inte att genomföra ditt samtal än. Försök att ringa ditt samtal igen senare.</string>
+    <string name="jgsdk_error_link_not_found">Det går inte att genomföra ditt samtal.</string>
+    <string name="jgsdk_error_networking">Det går inte att nå servern. Kontrollera att din enhet är ansluten till nätverket.</string>
+    <string name="jgsdk_error_networking_between_device">Det uppstod ett nätverksfel mellan din enhet och servern.</string>
+    <string name="jgsdk_error_no_WiFi_connection">Ingen WiFi-anslutning</string>
+    <string name="jgsdk_error_no_network_connection">Ingen nätverksanslutning</string>
+    <string name="jgsdk_error_no_network_connection_comment">Du måste vara ansluten till internet för att ringa det här samtalet.</string>
+    <string name="jgsdk_error_no_server_connection">Ingen serveranslutning</string>
+    <string name="jgsdk_error_no_server_connection_comment">Det går inte att nå Jabber Guest-servern.</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">För bättre samtalskvalitet rekommenderas en WiFi-anslutning.</string>
+    <string name="jgsdk_error_server">Länken resulterade i ett serverfel.</string>
+    <string name="jgsdk_error_server_api_version_failed">Uppdatera din Jabber Guest-klient till den senaste kompatibla versionen.</string>
+    <string name="jgsdk_error_server_busy">Servern är upptagen.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">Servern kunde inte kommunicera med mediekontrollen.</string>
+    <string name="jgsdk_error_unknown">Ett okänt fel uppstod - Försök igen eller kontakta systemadministratören.</string>
+    <string name="jgsdk_finish_started_call">Du måste avsluta det här samtalet innan du påbörjar ett nytt.</string>
+    <string name="jgsdk_frame">Ram</string>
+    <string name="jgsdk_frame_rate_heading">br/s:</string>
+    <string name="jgsdk_frame_size_heading">Ramstorlek:</string>
+    <string name="jgsdk_generic_user_avatar">Avatar för generisk användare</string>
+    <string name="jgsdk_jitter">Jitter</string>
+    <string name="jgsdk_keypad_button">Knapp på knappsats</string>
+    <string name="jgsdk_name_heading">Namn:</string>
+    <string name="jgsdk_network_unavailable">Nätverket är inte tillgängligt</string>
+    <string name="jgsdk_no_video_being_received">Ingen video tas emot</string>
+    <string name="jgsdk_other">Övrigt</string>
+    <string name="jgsdk_packets">Paket</string>
+    <string name="jgsdk_packets_lost">Paketförlust</string>
+    <string name="jgsdk_payload_type_heading">Nyttolasttyp:</string>
+    <string name="jgsdk_percent_lost">Förlust i procent</string>
+    <string name="jgsdk_rcvr_frame_rate">Mottagares bildhastighet</string>
+    <string name="jgsdk_receive">Ta emot</string>
+    <string name="jgsdk_receive_codec_heading">Ta emot codec</string>
+    <string name="jgsdk_resolution">Upplösning</string>
+    <string name="jgsdk_roundtrip_latency">Tur och retur/latens</string>
+    <string name="jgsdk_sender_frame_rate">Avsändares bildhastighet</string>
+    <string name="jgsdk_speaker">Högtalare</string>
+    <string name="jgsdk_switch_camera">Byt kamera</string>
+    <string name="jgsdk_toggle_self_view">Slå av och på vyn på dig själv</string>
+    <string name="jgsdk_transmit">Sänd</string>
+    <string name="jgsdk_transmit_codec_heading">Överför codec</string>
+    <string name="jgsdk_video">Video</string>
+    <string name="jgsdk_video_muted">Video stoppad</string>
+    <string name="jgsdk_video_stats_heading">Videostatistik</string>
+    <string name="jgsdk_video_stopped">Video stoppad</string>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

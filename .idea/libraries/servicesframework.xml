@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="servicesframework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sdk/libs/servicesframework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

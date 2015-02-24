@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="Overdraw"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#99ffffff"
+    android:columnCount="4"
+    android:padding="8dp"
+    android:useDefaultMargins="true" >
+
+    <!-- Audio Statistics -->
+
+    <TextView
+        android:layout_columnSpan="4"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/jgsdk_audio_stats_heading"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:layout_columnSpan="2"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/jgsdk_receive_codec_heading"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:layout_columnSpan="2"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/jgsdk_transmit_codec_heading"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <!-- name -->
+
+    <TextView
+        android:layout_gravity="right"
+        android:text="@string/jgsdk_name_heading"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/jgsdk_audio_receive_codec_name"
+        android:text="@string/jgsdk_default_stats_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:layout_gravity="right"
+        android:text="@string/jgsdk_name_heading"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/jgsdk_audio_transmit_codec_name"
+        android:text="@string/jgsdk_default_stats_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <!-- payload -->
+
+    <TextView
+        android:layout_gravity="right"
+        android:text="@string/jgsdk_payload_type_heading"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/jgsdk_audio_receive_payload_type"
+        android:text="@string/jgsdk_default_stats_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:layout_gravity="right"
+        android:text="@string/jgsdk_payload_type_heading"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/jgsdk_audio_transmit_payload_type"
+        android:text="@string/jgsdk_default_stats_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <!-- Video Statistics -->
+
+    <TextView
+        android:layout_columnSpan="4"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/jgsdk_video_stats_heading"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:layout_columnSpan="2"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/jgsdk_receive_codec_heading"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:layout_columnSpan="2"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/jgsdk_transmit_codec_heading"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <!-- name -->
+
+    <TextView
+        android:layout_gravity="right"
+        android:text="@string/jgsdk_name_heading"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/jgsdk_video_receive_codec_name"
+        android:text="@string/jgsdk_default_stats_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:layout_gravity="right"
+        android:text="@string/jgsdk_name_heading"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/jgsdk_video_transmit_codec_name"
+        android:text="@string/jgsdk_default_stats_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <!-- payload -->
+
+    <TextView
+        android:layout_gravity="right"
+        android:text="@string/jgsdk_payload_type_heading"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/jgsdk_video_receive_payload_type"
+        android:text="@string/jgsdk_default_stats_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:layout_gravity="right"
+        android:text="@string/jgsdk_payload_type_heading"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/jgsdk_video_transmit_payload_type"
+        android:text="@string/jgsdk_default_stats_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <!-- fps -->
+
+    <TextView
+        android:layout_gravity="right"
+        android:text="@string/jgsdk_frame_rate_heading"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/jgsdk_video_receive_frame_rate"
+        android:text="@string/jgsdk_default_stats_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:layout_gravity="right"
+        android:text="@string/jgsdk_frame_rate_heading"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/jgsdk_video_transmit_frame_rate"
+        android:text="@string/jgsdk_default_stats_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <!-- frame -->
+
+    <TextView
+        android:layout_gravity="right"
+        android:text="@string/jgsdk_frame_size_heading"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/jgsdk_video_receive_frame_size"
+        android:text="@string/jgsdk_default_stats_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:layout_gravity="right"
+        android:text="@string/jgsdk_frame_size_heading"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/jgsdk_video_transmit_frame_size"
+        android:text="@string/jgsdk_default_stats_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <Button
+        android:id="@+id/jgsdk_dismiss_stats_btn"
+        android:layout_columnSpan="4"
+        android:layout_gravity="fill_horizontal"
+        android:text="@string/jgsdk_dismiss_stats_btn" />
+
+</GridLayout><!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/layout/jgsdk_stats_view.xml -->

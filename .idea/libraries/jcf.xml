@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jcf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sdk/libs/jcf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

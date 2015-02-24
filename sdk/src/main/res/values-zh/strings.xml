@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="jgsdk_call">通話</string>
+    <string name="jgsdk_switch_camera">切換相機</string>
+    <string name="jgsdk_network_unavailable">網路不可用</string>
+    <string name="jgsdk_generic_user_avatar">通用使用者頭像</string>
+    <string name="jgsdk_toggle_self_view">切換本端預覽</string>
+    <string name="jgsdk_audio_muted">音訊已靜音</string>
+    <string name="jgsdk_video_muted">視訊已停止</string>
+    <string name="jgsdk_keypad_button">鍵台按鈕</string>
+    <string name="jgsdk_control_bar_mute">靜音</string>
+    <string name="jgsdk_control_bar_stop">停止</string>
+    <string name="jgsdk_control_bar_keypad">鍵台</string>
+    <string name="jgsdk_control_bar_end">結束</string>
+    
+    <!-- call statistics page -->
+    <string name="jgsdk_audio_stats_heading">音訊統計資料</string>
+    <string name="jgsdk_video_stats_heading">視訊統計資料</string>
+    <string name="jgsdk_transmit_codec_heading">傳輸轉碼器</string>
+    <string name="jgsdk_receive_codec_heading">接收轉碼器</string>
+    <string name="jgsdk_name_heading">姓名:</string>
+    <string name="jgsdk_payload_type_heading">裝載類型:</string>
+    <string name="jgsdk_frame_rate_heading">FPS:</string>
+    <string name="jgsdk_frame_size_heading">框架大小:</string>
+    <string name="jgsdk_default_stats_text">不適用</string>
+    <string name="jgsdk_dismiss_stats_btn">確定</string>
+    
+    <string name="jgsdk_video">視訊</string>
+    <string name="jgsdk_audio">音訊</string>
+    <string name="jgsdk_transmit">傳輸</string>
+    <string name="jgsdk_packets">封包</string>
+    <string name="jgsdk_packets_lost">封包遺失數</string>
+    <string name="jgsdk_percent_lost">遺失百分比</string>
+    <string name="jgsdk_cumulative_pct_lost">累計封包遺失數</string>
+    <string name="jgsdk_frame">訊框</string>
+    <string name="jgsdk_resolution">解析度</string>
+    <string name="jgsdk_sender_frame_rate">傳送器訊框速率</string>
+    <string name="jgsdk_other">其他</string>
+    <string name="jgsdk_bitrate">位元速率</string>
+    <string name="jgsdk_jitter">抖動</string>
+    <string name="jgsdk_roundtrip_latency">來回/延遲</string>
+    <string name="jgsdk_receive">接收</string>
+    <string name="jgsdk_rcvr_frame_rate">接收器訊框速率</string>        
+    <!-- call statistics page -->
+    
+    <string name="jgsdk_call_dropped">通話中斷</string>
+    <string name="jgsdk_call_not_completed">通話未完成</string>
+    <string name="jgsdk_call_server_no_response">伺服器無回應。</string>
+    <string name="jgsdk_error_server">連結導致伺服器錯誤。</string>
+    <string name="jgsdk_error_networking">伺服器不可達。請確保您的裝置已連線至網路。</string>
+    <string name="jgsdk_error_server_busy">伺服器忙碌。</string>
+    <string name="jgsdk_error_destination_busy">很抱歉，您嘗試連線的人忙碌，請稍後再試通話。</string>
+    <string name="jgsdk_error_link_not_active">很抱歉，您的通話尚未完成，請稍後再試通話。</string>
+    <string name="jgsdk_error_link_expired">很抱歉，此連結似乎已過期。</string>
+    <string name="jgsdk_error_link_disabled">很抱歉，此連結似乎已停用。</string>
+    <string name="jgsdk_error_link_invalid">連結無效。</string>
+    <string name="jgsdk_error_link_not_found">很抱歉，無法完成您的通話。</string>
+    <string name="jgsdk_error_unknown">發生不明錯誤 - 請再試一次或聯絡系統管理員。</string>
+    <string name="jgsdk_error_networking_between_device">您的裝置與伺服器之間的網路出錯。</string>
+    <string name="jgsdk_error_invalid_call_state">伺服器無法處理上次的請求。</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">伺服器無法與媒體控制器通訊。</string>
+    <string name="jgsdk_error_server_api_version_failed">請將 Jabber Guest 用戶端更新至支援的最新版本。</string>
+    <string name="jgsdk_error_no_network_connection">無網路連線</string>
+    <string name="jgsdk_error_no_network_connection_comment">必須連線至網際網路才可進行此通話。</string>    
+    <string name="jgsdk_error_no_server_connection">無伺服器連線</string>
+    <string name="jgsdk_error_no_server_connection_comment">無法連線至 Jabber Guest 伺服器。</string>
+    <string name="jgsdk_error_no_WiFi_connection">無 WiFi 連線</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">為獲取更好的通話品質，建議使用 WiFi 連線。</string>
+    <string name="jgsdk_audio_output">音訊輸出</string>
+    <string name="jgsdk_available_audio_ouputs">可用音訊輸出</string>
+    <string name="jgsdk_speaker">喇叭</string>
+    <string name="jgsdk_earphone">耳機</string>
+    <string name="jgsdk_bluetooth">藍牙</string>
+    <string name="jgsdk_bluetooth_s">藍牙 (%s)</string>
+    <string name="jgsdk_no_video_being_received">未接收視訊</string>
+    <string name="jgsdk_cisco_logo">Cisco 標誌</string>
+    <string name="jgsdk_video_stopped">視訊已停止</string>
+    <string name="jgsdk_certificate_warn_title">證書無效</string>
+    <string name="jgsdk_certificate_warn_message">通過使用伺服器提供的證書， 您的裝置無法確認%s伺服器的身份。未知方可能正在試圖訪問您的機密資訊。</string>
+    <string name="jgsdk_accept">接受</string>
+    <string name="jgsdk_decline">拒絕</string>
+    <string name="jgsdk_call_ready">您現在可以通話:</string>
+    <string name="jgsdk_call_ready_short">可以通話:</string>
+    <string name="jgsdk_call_ending">正在結束通話&#8230;</string>
+    <string name="jgsdk_call_calling">通話中&#8230;</string>
+    <string name="jgsdk_finish_started_call">您必須先結束此通話，才能發起新通話。</string>
+    <string name="jgsdk_call_with">與 %s 通話</string>
+    <string name="jgsdk_activate_license">啟動授權</string>
+    <string name="jgsdk_activate_license_textbody">若要啟用視訊通話，請啟動 Cisco 提供的免費視訊授權 (H.264 AVC)。只要選取 \'啟動\'，即表示您接受 Cisco 最終使用者授權合約及通告。</string>
+    <string-array name="jgsdk_video_license_options">
+        <item>啟動</item>
+        <item>檢視授權</item>
+        <item>取消</item>
+    </string-array>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

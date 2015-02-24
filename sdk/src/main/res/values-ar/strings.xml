@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="jgsdk_call">اتصال</string>
+    <string name="jgsdk_switch_camera">تبديل الكاميرا</string>
+    <string name="jgsdk_network_unavailable">الشبكة غير متاحة</string>
+    <string name="jgsdk_generic_user_avatar">الصورة الرمزية للمستخدم العام</string>
+    <string name="jgsdk_toggle_self_view">تبديل طريفة العرض الذاتية</string>
+    <string name="jgsdk_audio_muted">تم كتم الصوت</string>
+    <string name="jgsdk_video_muted">تم إيقاف الفيديو</string>
+    <string name="jgsdk_keypad_button">زر لوحة المفاتيح</string>
+    <string name="jgsdk_control_bar_mute">كتم الصوت</string>
+    <string name="jgsdk_control_bar_stop">إيقاف</string>
+    <string name="jgsdk_control_bar_keypad">لوحة المفاتيح</string>
+    <string name="jgsdk_control_bar_end">إنهاء</string>
+    
+    <!-- call statistics page -->
+    <string name="jgsdk_audio_stats_heading">إحصائيات الصوت</string>
+    <string name="jgsdk_video_stats_heading">إحصائيات الفيديو</string>
+    <string name="jgsdk_transmit_codec_heading">برنامج ترميز الإرسال</string>
+    <string name="jgsdk_receive_codec_heading">برنامج ترميز الاستلام</string>
+    <string name="jgsdk_name_heading">الاسم:</string>
+    <string name="jgsdk_payload_type_heading">نوع البيانات المنقولة:</string>
+    <string name="jgsdk_frame_rate_heading">FPS:</string>
+    <string name="jgsdk_frame_size_heading">حجم الإطار:</string>
+    <string name="jgsdk_default_stats_text">غير متاح</string>
+    <string name="jgsdk_dismiss_stats_btn">موافق</string>
+    
+    <string name="jgsdk_video">فيديو</string>
+    <string name="jgsdk_audio">صوتي</string>
+    <string name="jgsdk_transmit">إرسال</string>
+    <string name="jgsdk_packets">الحزم</string>
+    <string name="jgsdk_packets_lost">الحزم مفقودة</string>
+    <string name="jgsdk_percent_lost">النسبة المئوية مفقودة</string>
+    <string name="jgsdk_cumulative_pct_lost">النسبة المئوية التراكمية مفقودة</string>
+    <string name="jgsdk_frame">إطار</string>
+    <string name="jgsdk_resolution">الدقة</string>
+    <string name="jgsdk_sender_frame_rate">معدل إطارات المرسل</string>
+    <string name="jgsdk_other">غير ذلك</string>
+    <string name="jgsdk_bitrate">معدل البث</string>
+    <string name="jgsdk_jitter">التشويش</string>
+    <string name="jgsdk_roundtrip_latency">الجولة/زمن الوصول</string>
+    <string name="jgsdk_receive">الاستلام</string>
+    <string name="jgsdk_rcvr_frame_rate">معدل إطارات المستلم</string>        
+    <!-- call statistics page -->
+    
+    <string name="jgsdk_call_dropped">مكالمة ساقطة</string>
+    <string name="jgsdk_call_not_completed">المكالمة لم تكتمل</string>
+    <string name="jgsdk_call_server_no_response">لا توجد استجابة من الخادم.</string>
+    <string name="jgsdk_error_server">أدى الارتباط إلى حدوث خطأ في الخادم.</string>
+    <string name="jgsdk_error_networking">لا يمكن الوصول إلى الملقم. تحقق من اتصال جهازك بالشبكة.</string>
+    <string name="jgsdk_error_server_busy">الخادم مشغول.</string>
+    <string name="jgsdk_error_destination_busy">عفوًا، الشخص الذي تحاول الاتصال به مشغول. الرجاء  إعادة الاتصال في وقت لاحق.</string>
+    <string name="jgsdk_error_link_not_active">عفوًا، لا يمكن إكمال مكالمتك بعد. الرجاء إعادة الاتصال في وقت لاحق.</string>
+    <string name="jgsdk_error_link_expired">عفوًا، يبدو أن هذا الارتباط قد انتهت صلاحيته.</string>
+    <string name="jgsdk_error_link_disabled">عفوًا، يبدو أن هذا الارتباط معطّل.</string>
+    <string name="jgsdk_error_link_invalid">هذا الارتباط غير صالح.</string>
+    <string name="jgsdk_error_link_not_found">عفوًا، لا يمكن إكمال مكالمتك.</string>
+    <string name="jgsdk_error_unknown">حدث خطأ غير معروف - أعد المحاولة أو اتصل بمسؤول النظام.</string>
+    <string name="jgsdk_error_networking_between_device">حدث خطأ في الشبكة بين الجهاز والملقم.</string>
+    <string name="jgsdk_error_invalid_call_state">تعذر على الملقم معالجة الطلب الأخير.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">تعذر على الملقم الاتصال بوحدة التحكم في الوسائط.</string>
+    <string name="jgsdk_error_server_api_version_failed">الرجاء تحديث عميل Jabber Guest لديك إلى أحدث إصدار مدعوم.</string>
+    <string name="jgsdk_error_no_network_connection">لا يوجد اتصال بالشبكة</string>
+    <string name="jgsdk_error_no_network_connection_comment">يجب الاتصال بالإنترنت لإجراء هذه المكالمة.</string>    
+    <string name="jgsdk_error_no_server_connection">لا يوجد اتصال بالملقم</string>
+    <string name="jgsdk_error_no_server_connection_comment">لا يمكن الوصول إلى ملقم Jabber Guest.</string>
+    <string name="jgsdk_error_no_WiFi_connection">لا يوجد اتصال WiFi</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">للحصول على جودة أفضل للمكالمة، يوصى باتصال WiFi.</string>
+    <string name="jgsdk_audio_output">إخراج الصوت</string>
+    <string name="jgsdk_available_audio_ouputs">إخراجات الصوت المتوفرة</string>
+    <string name="jgsdk_speaker">مكبر الصوت</string>
+    <string name="jgsdk_earphone">سماعة الأذن</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth (%s)</string>
+    <string name="jgsdk_no_video_being_received">لا يتم استلام أي فيديو</string>
+    <string name="jgsdk_cisco_logo">شعار Cisco</string>
+    <string name="jgsdk_video_stopped">تم إيقاف الفيديو</string>
+    <string name="jgsdk_certificate_warn_title">شهادة غير صالحة</string>
+    <string name="jgsdk_certificate_warn_message">لا يستطيع الجهاز الخاص بك التأكد من هوية الملقم %s مع الشهادة المتوفرة. احتمال وجود طرف مجهول يحاول الوصول إلى المعلومات السرية الخاصة بك .</string>
+    <string name="jgsdk_accept">قبول</string>
+    <string name="jgsdk_decline">تراجع</string>
+    <string name="jgsdk_call_ready">أنت الآن مستعد للاتصال:</string>
+    <string name="jgsdk_call_ready_short">مستعد للاتصال:</string>
+    <string name="jgsdk_call_ending">جارٍ إنهاء المكالمة...</string>
+    <string name="jgsdk_call_calling">جارٍ الاتصال&#8230;</string>
+    <string name="jgsdk_finish_started_call">يجب إنهاء هذه المكالمة قبل بدء مكالمة جديدة.</string>
+    <string name="jgsdk_call_with">مكالمة مع %s</string>
+    <string name="jgsdk_activate_license">تنشيط الترخيص</string>
+    <string name="jgsdk_activate_license_textbody">لتمكين مكالمات الفيديو، قم بتنشيط ترخيص الفيديو المجاني بترميز (H.264 AVC) من Cisco. عند تحديد \'تنشيط\'، فأنت توافق على اتفاقية ترخيص المستخدم النهائي لشركة Cisco وتلقي الإشعارات.</string>
+    <string-array name="jgsdk_video_license_options">
+        <item>تنشيط</item>
+        <item>عرض الترخيص</item>
+        <item>إلغاء</item>
+    </string-array>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

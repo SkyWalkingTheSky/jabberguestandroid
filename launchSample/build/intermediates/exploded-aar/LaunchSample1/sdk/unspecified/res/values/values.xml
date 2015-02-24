@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="jgsdk_video_license_options">
+        <item>Activate</item>
+        <item>View License</item>
+        <item>Cancel</item>
+    </string-array>
+    <declare-styleable name="BaseTextureViewLayout"><attr name="android:maxWidth"/><attr name="android:maxHeight"/></declare-styleable>
+    <declare-styleable name="CallBarView"><attr name="jgsdk_buttons"><flag name="audio" value="0x01"/><flag name="video" value="0x02"/><flag name="keypad" value="0x04"/><flag name="hook" value="0x08"/><flag name="all" value="0xff"/></attr><attr name="android:onClick"/></declare-styleable>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="jgsdk_preview_view" type="id"/>
+    <item name="jgsdk_remote_view" type="id"/>
+    <item name="jgsdk_self_view" type="id"/>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="jgsdk_accept">Accept</string>
+    <string name="jgsdk_activate_license">Activate License</string>
+    <string name="jgsdk_activate_license_textbody">To enable video calls, activate a free video license (H.264 AVC) from Cisco. By selecting \'Activate\', you accept the Cisco End User License Agreement and notices.</string>
+    <string name="jgsdk_audio">Audio</string>
+    <string name="jgsdk_audio_muted">Audio muted</string>
+    <string name="jgsdk_audio_output">Audio output</string>
+    <string name="jgsdk_audio_stats_heading">Audio Statistics</string>
+    <string name="jgsdk_available_audio_ouputs">Available Audio Outputs</string>
+    <string name="jgsdk_bitrate">Bitrate</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth (%s)</string>
+    <string name="jgsdk_call">Call</string>
+    <string name="jgsdk_call_calling">Calling…</string>
+    <string name="jgsdk_call_dropped">Call Dropped</string>
+    <string name="jgsdk_call_ending">Ending call…</string>
+    <string name="jgsdk_call_not_completed">Call Not Completed</string>
+    <string name="jgsdk_call_ready">You are now ready to call:</string>
+    <string name="jgsdk_call_ready_short">Ready to call:</string>
+    <string name="jgsdk_call_server_no_response">No response from the server.</string>
+    <string name="jgsdk_call_with">Call with %s</string>
+    <string name="jgsdk_certificate_warn_message">Your device cannot confirm the identity of server %s with the certificate that the server provided.  An unknown party might be trying to access your confidential information.</string>
+    <string name="jgsdk_certificate_warn_title">Certificate not valid</string>
+    <string name="jgsdk_cisco_logo">Cisco Logo</string>
+    <string name="jgsdk_control_bar_end">End</string>
+    <string name="jgsdk_control_bar_keypad">Keypad</string>
+    <string name="jgsdk_control_bar_mute">Mute</string>
+    <string name="jgsdk_control_bar_stop">Stop</string>
+    <string name="jgsdk_cumulative_pct_lost">Cumulative Pct Lost</string>
+    <string name="jgsdk_decline">Decline</string>
+    <string name="jgsdk_default_stats_text">N/A</string>
+    <string name="jgsdk_dismiss_stats_btn">OK</string>
+    <string name="jgsdk_earphone">Earphone</string>
+    <string name="jgsdk_error_destination_busy">We\'re sorry, the person you are trying to reach is busy.  Please try your call again later.</string>
+    <string name="jgsdk_error_invalid_call_state">The server could not process the last request.</string>
+    <string name="jgsdk_error_link_disabled">We\'re sorry, it seems this link is disabled.</string>
+    <string name="jgsdk_error_link_expired">We\'re sorry, it seems this link has expired.</string>
+    <string name="jgsdk_error_link_invalid">This link is invalid.</string>
+    <string name="jgsdk_error_link_not_active">We\'re sorry, your call cannot be completed yet.  Please try your call again later.</string>
+    <string name="jgsdk_error_link_not_found">We\'re sorry, your call cannot be completed.</string>
+    <string name="jgsdk_error_networking">The server cannot be reached.  Ensure your device is connected to the network.</string>
+    <string name="jgsdk_error_networking_between_device">There was a networking error between your device and the server.</string>
+    <string name="jgsdk_error_no_WiFi_connection">No WiFi connection</string>
+    <string name="jgsdk_error_no_network_connection">No network connection</string>
+    <string name="jgsdk_error_no_network_connection_comment">You must be connected to the internet to make this call.</string>
+    <string name="jgsdk_error_no_server_connection">No server connection</string>
+    <string name="jgsdk_error_no_server_connection_comment">The Jabber Guest server is not reachable.</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">For better call quality, a WiFi connection is recommended.</string>
+    <string name="jgsdk_error_server">The link resulted in a server error.</string>
+    <string name="jgsdk_error_server_api_version_failed">Please update your Jabber Guest client to the latest supported version.</string>
+    <string name="jgsdk_error_server_busy">The server is busy.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">The server was unable to communicate with the media controller.</string>
+    <string name="jgsdk_error_unknown">An unknown error occurred - Try again or contact system administrator.</string>
+    <string name="jgsdk_finish_started_call">You must end this call before starting a new one.</string>
+    <string name="jgsdk_frame">Frame</string>
+    <string name="jgsdk_frame_rate_heading">FPS:</string>
+    <string name="jgsdk_frame_size_heading">Frame Size:</string>
+    <string name="jgsdk_generic_user_avatar">Generic user avatar</string>
+    <string name="jgsdk_jitter">Jitter</string>
+    <string name="jgsdk_keypad_button">Keypad button</string>
+    <string name="jgsdk_name_heading">Name:</string>
+    <string name="jgsdk_network_unavailable">Network unavailable</string>
+    <string name="jgsdk_no_video_being_received">No video being received</string>
+    <string name="jgsdk_other">Other</string>
+    <string name="jgsdk_packets">Packets</string>
+    <string name="jgsdk_packets_lost">Packets Lost</string>
+    <string name="jgsdk_payload_type_heading">Payload Type:</string>
+    <string name="jgsdk_percent_lost">Percent Lost</string>
+    <string name="jgsdk_rcvr_frame_rate">Rcvr Frame Rate</string>
+    <string name="jgsdk_receive">Receive</string>
+    <string name="jgsdk_receive_codec_heading">Receive Codec</string>
+    <string name="jgsdk_resolution">Resolution</string>
+    <string name="jgsdk_roundtrip_latency">Roundtrip/Latency</string>
+    <string name="jgsdk_sender_frame_rate">Sender Frame Rate</string>
+    <string name="jgsdk_speaker">Speaker</string>
+    <string name="jgsdk_switch_camera">Switch Camera</string>
+    <string name="jgsdk_toggle_self_view">Toggle self view</string>
+    <string name="jgsdk_transmit">Transmit</string>
+    <string name="jgsdk_transmit_codec_heading">Transmit Codec</string>
+    <string name="jgsdk_video">Video</string>
+    <string name="jgsdk_video_muted">Video Stopped</string>
+    <string name="jgsdk_video_stats_heading">Video Statistics</string>
+    <string name="jgsdk_video_stopped">Video Stopped</string>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="jgsdk_button" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:background">@drawable/jgsdk_im_btn_action</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="jgsdk_button.preview" parent="@style/jgsdk_button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal|center_vertical</item>
+        <item name="android:layout_margin">16dp</item>
+    </style>
+    <style name="jgsdk_textview.video" parent="@android:style/Widget.TextView">
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:background">@drawable/jgsdk_bkgd_docklet_bottom</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:drawableLeft">@drawable/jgsdk_ic_menu_preview_stop_video</item>
+        <item name="android:drawableStart">@drawable/jgsdk_ic_menu_preview_stop_video</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+</resources>

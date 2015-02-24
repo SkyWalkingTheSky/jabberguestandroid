@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string-array name="jgsdk_video_license_options">
+        <item>Aktivér</item>
+        <item>Vis licens</item>
+        <item>Annullér</item>
+    </string-array>
+    <string name="jgsdk_accept">Accepter</string>
+    <string name="jgsdk_activate_license">Aktivér licens</string>
+    <string name="jgsdk_activate_license_textbody">For at aktivere videoopkald skal du aktivere en gratis videolicens (H.264 AVC) fra Cisco. Ved at vælge \'Aktivér\' accepterer du Ciscos slutbrugerlicensaftale og bemærkninger.</string>
+    <string name="jgsdk_audio">Lyd</string>
+    <string name="jgsdk_audio_muted">Lyd slået fra</string>
+    <string name="jgsdk_audio_output">Lydoutput</string>
+    <string name="jgsdk_audio_stats_heading">Lydstatistikker</string>
+    <string name="jgsdk_available_audio_ouputs">Tilgængelige lydoutput</string>
+    <string name="jgsdk_bitrate">Bithastighed</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth (%s)</string>
+    <string name="jgsdk_call">Ring</string>
+    <string name="jgsdk_call_calling">Ringer…</string>
+    <string name="jgsdk_call_dropped">Opkald afbrudt</string>
+    <string name="jgsdk_call_ending">Afslutter opkald…</string>
+    <string name="jgsdk_call_not_completed">Opkaldet er ikke fuldført</string>
+    <string name="jgsdk_call_ready">Du er nu klar til at foretage et opkald:</string>
+    <string name="jgsdk_call_ready_short">Klar til opkald:</string>
+    <string name="jgsdk_call_server_no_response">Intet svar fra server.</string>
+    <string name="jgsdk_call_with">Opkald med %s</string>
+    <string name="jgsdk_certificate_warn_message">Din enhed kan ikke bekræfte identiteten af server %s med det certifikat som serveren har udsendt. En ukendt part kan være ved at forsøge at få adgang til dine fortrolige oplysninger.</string>
+    <string name="jgsdk_certificate_warn_title">Ugyldigt certifikat</string>
+    <string name="jgsdk_cisco_logo">Cisco Logo</string>
+    <string name="jgsdk_control_bar_end">Afslut</string>
+    <string name="jgsdk_control_bar_keypad">Tastatur</string>
+    <string name="jgsdk_control_bar_mute">Lyd fra</string>
+    <string name="jgsdk_control_bar_stop">Stop</string>
+    <string name="jgsdk_cumulative_pct_lost">Samlet tab i procent</string>
+    <string name="jgsdk_decline">Afslå</string>
+    <string name="jgsdk_default_stats_text">I/T</string>
+    <string name="jgsdk_dismiss_stats_btn">OK</string>
+    <string name="jgsdk_earphone">Øresnegl</string>
+    <string name="jgsdk_error_destination_busy">Vi beklager, men personen, som du forsøger at få forbindelse til, er optaget. Prøv at foretage dit opkald igen senere.</string>
+    <string name="jgsdk_error_invalid_call_state">Serveren kunne ikke behandle den sidste anmodning.</string>
+    <string name="jgsdk_error_link_disabled">Vi beklager, men dette link er tilsyneladende deaktiveret.</string>
+    <string name="jgsdk_error_link_expired">Vi beklager, men dette link er tilsyneladende udløbet.</string>
+    <string name="jgsdk_error_link_invalid">Linket er ugyldigt.</string>
+    <string name="jgsdk_error_link_not_active">Vi beklager, men dit opkald kan ikke udføres endnu. Prøv at foretage dit opkald igen senere.</string>
+    <string name="jgsdk_error_link_not_found">Vi beklager, men dit opkald kan ikke udføres.</string>
+    <string name="jgsdk_error_networking">Der kan ikke oprettes forbindelse til serveren. Sørg for, at din enhed er sluttet til netværket.</string>
+    <string name="jgsdk_error_networking_between_device">Der opstod en netværksfejl mellem din enhed og serveren.</string>
+    <string name="jgsdk_error_no_WiFi_connection">Ingen Wi-Fi-forbindelse</string>
+    <string name="jgsdk_error_no_network_connection">Ingen netværksforbindelse</string>
+    <string name="jgsdk_error_no_network_connection_comment">Du skal være tilsluttet internettet for at foretage dette opkald.</string>
+    <string name="jgsdk_error_no_server_connection">Ingen serverforbindelse</string>
+    <string name="jgsdk_error_no_server_connection_comment">Jabber Guest-serveren er ikke tilgængelig.</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">For at opnå bedre opkaldskvalitet anbefales en Wi-Fi-forbindelse.</string>
+    <string name="jgsdk_error_server">Linket resulterede i en serverfejl.</string>
+    <string name="jgsdk_error_server_api_version_failed">Du bedes opdatere din Jabber Guest-klient til den senest understøttede version.</string>
+    <string name="jgsdk_error_server_busy">Serveren er optaget.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">Serveren var ikke i stand til at kommunikere med mediecontrolleren.</string>
+    <string name="jgsdk_error_unknown">Der opstod en ukendt fejl - prøv igen, eller kontakt systemadministratoren.</string>
+    <string name="jgsdk_finish_started_call">Du skal afslutte opkaldet, inden et nyt startes.</string>
+    <string name="jgsdk_frame">Billede</string>
+    <string name="jgsdk_frame_rate_heading">FPS:</string>
+    <string name="jgsdk_frame_size_heading">Rammestørrelse:</string>
+    <string name="jgsdk_generic_user_avatar">Generisk bruger-avatar</string>
+    <string name="jgsdk_jitter">Jitter</string>
+    <string name="jgsdk_keypad_button">Tastaturtast</string>
+    <string name="jgsdk_name_heading">Navn:</string>
+    <string name="jgsdk_network_unavailable">Netværket er utilgængeligt</string>
+    <string name="jgsdk_no_video_being_received">Ingen video bliver modtaget</string>
+    <string name="jgsdk_other">Andre</string>
+    <string name="jgsdk_packets">Pakker</string>
+    <string name="jgsdk_packets_lost">Mistede pakker</string>
+    <string name="jgsdk_payload_type_heading">Datatype:</string>
+    <string name="jgsdk_percent_lost">Tab i procent</string>
+    <string name="jgsdk_rcvr_frame_rate">Modtagers billedhastighed</string>
+    <string name="jgsdk_receive">Modtag</string>
+    <string name="jgsdk_receive_codec_heading">Modtag Codec</string>
+    <string name="jgsdk_resolution">Opløsning</string>
+    <string name="jgsdk_roundtrip_latency">Returnering/ventetid</string>
+    <string name="jgsdk_sender_frame_rate">Afsenders billedhastighed</string>
+    <string name="jgsdk_speaker">Højttaler</string>
+    <string name="jgsdk_switch_camera">Skift kamera</string>
+    <string name="jgsdk_toggle_self_view">Til/fra eget-billede</string>
+    <string name="jgsdk_transmit">Transmittér</string>
+    <string name="jgsdk_transmit_codec_heading">Send Codec</string>
+    <string name="jgsdk_video">Video</string>
+    <string name="jgsdk_video_muted">Video stoppede</string>
+    <string name="jgsdk_video_stats_heading">Videostatistikker</string>
+    <string name="jgsdk_video_stopped">Video stoppede</string>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

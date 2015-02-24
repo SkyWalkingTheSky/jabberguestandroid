@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string-array name="jgsdk_video_license_options">
+        <item>Etkinleştir</item>
+        <item>Lisansı Görüntüle</item>
+        <item>İptal</item>
+    </string-array>
+    <string name="jgsdk_accept">Kabul Et</string>
+    <string name="jgsdk_activate_license">Lisansı Etkinleştir</string>
+    <string name="jgsdk_activate_license_textbody">Görüntülü aramaları etkinleştirmek için Cisco\'ya ait ücretsiz bir video lisansını (H.264 AVC) etkinleştirin. \'Etkinleştir\' seçeneğini belirleyerek Cisco Son Kullanıcı Lisans Sözleşmesi\'ni ve bildirimleri kabul etmiş olursunuz.</string>
+    <string name="jgsdk_audio">Ses</string>
+    <string name="jgsdk_audio_muted">Ses kapatıldı</string>
+    <string name="jgsdk_audio_output">Ses çıkışı</string>
+    <string name="jgsdk_audio_stats_heading">Ses İstatistikleri</string>
+    <string name="jgsdk_available_audio_ouputs">Mevcut Ses Çıkışları</string>
+    <string name="jgsdk_bitrate">Bit Hızı</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth (%s)</string>
+    <string name="jgsdk_call">Ara</string>
+    <string name="jgsdk_call_calling">Aranıyor…</string>
+    <string name="jgsdk_call_dropped">Arama Düştü</string>
+    <string name="jgsdk_call_ending">Arama sonlandırılıyor…</string>
+    <string name="jgsdk_call_not_completed">Arama Tamamlanmadı</string>
+    <string name="jgsdk_call_ready">Artık aramaya hazırsınız:</string>
+    <string name="jgsdk_call_ready_short">Aramaya hazır:</string>
+    <string name="jgsdk_call_server_no_response">Sunucudan yanıt yok.</string>
+    <string name="jgsdk_call_with">%s ile arama</string>
+    <string name="jgsdk_certificate_warn_message">Cihazınız sunulan sunucu sertifikası ile %s sunucusu kimliği  onaylayamıyor. Bilinmeyen bir taraf gizli bilgilerinize erişmek için çalışıyor olabilir.</string>
+    <string name="jgsdk_certificate_warn_title">Sertifika geçerli değil</string>
+    <string name="jgsdk_cisco_logo">Cisco Logosu</string>
+    <string name="jgsdk_control_bar_end">Sonlandır</string>
+    <string name="jgsdk_control_bar_keypad">Tuş Takımı</string>
+    <string name="jgsdk_control_bar_mute">Sessiz</string>
+    <string name="jgsdk_control_bar_stop">Durdur</string>
+    <string name="jgsdk_cumulative_pct_lost">Toplam Kayıp Yüzdesi</string>
+    <string name="jgsdk_decline">Reddet</string>
+    <string name="jgsdk_default_stats_text">Yok</string>
+    <string name="jgsdk_dismiss_stats_btn">Tamam</string>
+    <string name="jgsdk_earphone">Kulaklık</string>
+    <string name="jgsdk_error_destination_busy">Ne yazık ki ulaşmak istediğiniz kişi meşgul. Lütfen daha sonra tekrar arayın.</string>
+    <string name="jgsdk_error_invalid_call_state">Sunucu, en son isteği işleyemedi.</string>
+    <string name="jgsdk_error_link_disabled">Ne yazık ki bağlantı devre dışı bırakılmış.</string>
+    <string name="jgsdk_error_link_expired">Ne yazık ki bağlantının süresi dolmuş.</string>
+    <string name="jgsdk_error_link_invalid">Bağlantı geçersiz.</string>
+    <string name="jgsdk_error_link_not_active">Ne yazık ki aramanız gerçekleştirilemiyor. Lütfen daha sonra tekrar arayın.</string>
+    <string name="jgsdk_error_link_not_found">Ne yazık ki aramanız gerçekleştirilemiyor.</string>
+    <string name="jgsdk_error_networking">Sunucuya erişilemiyor. Cihazınızın ağa bağlı olduğundan emin olun.</string>
+    <string name="jgsdk_error_networking_between_device">Cihazınız ve sunucu arasında bir ağ bağlantı hatası oluştu.</string>
+    <string name="jgsdk_error_no_WiFi_connection">WiFi bağlantısı yok</string>
+    <string name="jgsdk_error_no_network_connection">Ağ bağlantısı yok</string>
+    <string name="jgsdk_error_no_network_connection_comment">Bu aramayı yapmak için İnternet\'e bağlı olmanız gerekir.</string>
+    <string name="jgsdk_error_no_server_connection">Sunucu bağlantısı yok</string>
+    <string name="jgsdk_error_no_server_connection_comment">Jabber Guest sunucusuna erişilemiyor.</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">Daha iyi arama kalitesi için WiFi bağlantısı önerilir.</string>
+    <string name="jgsdk_error_server">Bağlantı, bir sunucu hatası ile sonuçlandı.</string>
+    <string name="jgsdk_error_server_api_version_failed">Lütfen Jabber Guest istemcinizi desteklenen en son sürüme güncelleyin.</string>
+    <string name="jgsdk_error_server_busy">Sunucu meşgul.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">Sunucu, ortam denetleyicisiyle iletişim kuramadı.</string>
+    <string name="jgsdk_error_unknown">Bilinmeyen bir hata oluştu. Tekrar deneyin veya sistem yöneticisine başvurun.</string>
+    <string name="jgsdk_finish_started_call">Yeni bir arama başlatmadan önce bu aramayı sonlandırmanız gerekir.</string>
+    <string name="jgsdk_frame">Çerçeve</string>
+    <string name="jgsdk_frame_rate_heading">FPS:</string>
+    <string name="jgsdk_frame_size_heading">Çerçeve Boyutu:</string>
+    <string name="jgsdk_generic_user_avatar">Genel kullanıcı avatarı</string>
+    <string name="jgsdk_jitter">Sapma</string>
+    <string name="jgsdk_keypad_button">Tuş takımı düğmesi</string>
+    <string name="jgsdk_name_heading">Adı:</string>
+    <string name="jgsdk_network_unavailable">Ağ kullanılamıyor</string>
+    <string name="jgsdk_no_video_being_received">Hiçbir video alınmıyor</string>
+    <string name="jgsdk_other">Diğer</string>
+    <string name="jgsdk_packets">Paketler</string>
+    <string name="jgsdk_packets_lost">Kayıp Paketler</string>
+    <string name="jgsdk_payload_type_heading">Veri Yükü Türü:</string>
+    <string name="jgsdk_percent_lost">Kayıp Yüzdesi</string>
+    <string name="jgsdk_rcvr_frame_rate">Alıcı Çerçeve Hızı</string>
+    <string name="jgsdk_receive">Alma</string>
+    <string name="jgsdk_receive_codec_heading">Kodeki Al</string>
+    <string name="jgsdk_resolution">Çözünürlük</string>
+    <string name="jgsdk_roundtrip_latency">Gidiş Geliş/Gecikme Süresi</string>
+    <string name="jgsdk_sender_frame_rate">Gönderen Çerçeve Hızı</string>
+    <string name="jgsdk_speaker">Hoparlör</string>
+    <string name="jgsdk_switch_camera">Kamerayı Değiştir</string>
+    <string name="jgsdk_toggle_self_view">Kendi görüntüme geç</string>
+    <string name="jgsdk_transmit">İletme</string>
+    <string name="jgsdk_transmit_codec_heading">Kodeki Aktar</string>
+    <string name="jgsdk_video">Video</string>
+    <string name="jgsdk_video_muted">Video Durduruldu</string>
+    <string name="jgsdk_video_stats_heading">Video İstatistikleri</string>
+    <string name="jgsdk_video_stopped">Video Durduruldu</string>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

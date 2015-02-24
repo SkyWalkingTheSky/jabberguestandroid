@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values-nl/strings.xml -->
+    <eat-comment/>
+    <string-array name="jgsdk_video_license_options">
+        <item>Activeren</item>
+        <item>Licentie weergeven</item>
+        <item>Annuleren</item>
+    </string-array>
+    <string name="jgsdk_accept">Accepteren</string>
+    <string name="jgsdk_activate_license">Licentie activeren</string>
+    <string name="jgsdk_activate_license_textbody">Als u videogesprekken wilt inschakelen, activeert u een gratis videolicentie (H.264 AVC) van Cisco. Als u \'Activeren\' selecteert, accepteert u de Licentieovereenkomst voor eindgebruikers en de meldingen van Cisco.</string>
+    <string name="jgsdk_audio">Audio</string>
+    <string name="jgsdk_audio_muted">Audio gedempt</string>
+    <string name="jgsdk_audio_output">Audio-uitgang</string>
+    <string name="jgsdk_audio_stats_heading">Audiostatistieken</string>
+    <string name="jgsdk_available_audio_ouputs">Beschikbare audio-uitgangen</string>
+    <string name="jgsdk_bitrate">Bitsnelheid</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth (%s)</string>
+    <string name="jgsdk_call">Bellen</string>
+    <string name="jgsdk_call_calling">Bellen…</string>
+    <string name="jgsdk_call_dropped">Gesprek Gestopt</string>
+    <string name="jgsdk_call_ending">Gesprek beëindigen…</string>
+    <string name="jgsdk_call_not_completed">Gesprek niet geplaatst</string>
+    <string name="jgsdk_call_ready">U ben nu klaar om te bellen met:</string>
+    <string name="jgsdk_call_ready_short">Klaar om te bellen met:</string>
+    <string name="jgsdk_call_server_no_response">Geen antwoord van de server.</string>
+    <string name="jgsdk_call_with">Gesprek met %s</string>
+    <string name="jgsdk_certificate_warn_message">Uw apparaat kan de identiteit van de server %s niet bevestigen met het certificaat dat de server verstrekt. Een onbekende partij kan proberen om toegang te krijgen tot uw vertrouwelijke informatie.</string>
+    <string name="jgsdk_certificate_warn_title">Certificaat niet geldig</string>
+    <string name="jgsdk_cisco_logo">Cisco-logo</string>
+    <string name="jgsdk_control_bar_end">Einde</string>
+    <string name="jgsdk_control_bar_keypad">Toetsenblok</string>
+    <string name="jgsdk_control_bar_mute">Dempen</string>
+    <string name="jgsdk_control_bar_stop">Stoppen</string>
+    <string name="jgsdk_cumulative_pct_lost">Verloren cumulatief percentage</string>
+    <string name="jgsdk_decline">Weigeren</string>
+    <string name="jgsdk_default_stats_text">n.v.t.</string>
+    <string name="jgsdk_dismiss_stats_btn">OK</string>
+    <string name="jgsdk_earphone">Headset</string>
+    <string name="jgsdk_error_destination_busy">De persoon die u probeert te bereiken, is bezet. Probeer later opnieuw te bellen.</string>
+    <string name="jgsdk_error_invalid_call_state">De server kan het laatste verzoek niet verwerken.</string>
+    <string name="jgsdk_error_link_disabled">Het lijkt erop dat de koppeling is uitgeschakeld.</string>
+    <string name="jgsdk_error_link_expired">Het lijkt erop dat de koppeling is verlopen.</string>
+    <string name="jgsdk_error_link_invalid">Deze koppeling is ongeldig.</string>
+    <string name="jgsdk_error_link_not_active">Uw oproep kan nog niet worden voltooid. Probeer later opnieuw te bellen.</string>
+    <string name="jgsdk_error_link_not_found">Uw oproep kan niet worden voltooid.</string>
+    <string name="jgsdk_error_networking">Deze server kan niet worden bereikt. Zorg ervoor dat uw apparaat is verbonden met het netwerk.</string>
+    <string name="jgsdk_error_networking_between_device">Er is een netwerkfout tussen uw apparaat en de server opgetreden.</string>
+    <string name="jgsdk_error_no_WiFi_connection">Geen Wi-Fi-verbinding</string>
+    <string name="jgsdk_error_no_network_connection">Geen netwerkverbinding</string>
+    <string name="jgsdk_error_no_network_connection_comment">U moet zijn verbonden met het internet om deze oproep te plaatsen.</string>
+    <string name="jgsdk_error_no_server_connection">Geen serververbinding</string>
+    <string name="jgsdk_error_no_server_connection_comment">De Jabber Guest-server is niet bereikbaar.</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">Voor betere gesprekskwaliteit wordt een Wi-Fi-verbinding aanbevolen.</string>
+    <string name="jgsdk_error_server">De koppeling heeft een serverfout opgeleverd.</string>
+    <string name="jgsdk_error_server_api_version_failed">Werk uw Jabber Guest-client bij naar de laatste ondersteunde versie.</string>
+    <string name="jgsdk_error_server_busy">De server is bezet.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">De server kan niet communiceren met de mediabesturing.</string>
+    <string name="jgsdk_error_unknown">Er is een onbekende fout opgetreden. Probeer het opnieuw of neem contact op met de systeembeheerder.</string>
+    <string name="jgsdk_finish_started_call">Beëindig dit gesprek voordat u een nieuw gesprek begint.</string>
+    <string name="jgsdk_frame">Frame</string>
+    <string name="jgsdk_frame_rate_heading">FPS:</string>
+    <string name="jgsdk_frame_size_heading">Framegrootte:</string>
+    <string name="jgsdk_generic_user_avatar">Generieke gebruikersavatar</string>
+    <string name="jgsdk_jitter">Jitter</string>
+    <string name="jgsdk_keypad_button">Toetsenblokknop</string>
+    <string name="jgsdk_name_heading">Naam:</string>
+    <string name="jgsdk_network_unavailable">Netwerk niet beschikbaar</string>
+    <string name="jgsdk_no_video_being_received">Er wordt geen video ontvangen</string>
+    <string name="jgsdk_other">Overig</string>
+    <string name="jgsdk_packets">Pakketten</string>
+    <string name="jgsdk_packets_lost">Verloren pakketten</string>
+    <string name="jgsdk_payload_type_heading">Type lading:</string>
+    <string name="jgsdk_percent_lost">Verloren percentage</string>
+    <string name="jgsdk_rcvr_frame_rate">Framesnelheid van verzender</string>
+    <string name="jgsdk_receive">Ontvangen</string>
+    <string name="jgsdk_receive_codec_heading">Codec ontvangen</string>
+    <string name="jgsdk_resolution">Resolutie</string>
+    <string name="jgsdk_roundtrip_latency">Retour/Latentie</string>
+    <string name="jgsdk_sender_frame_rate">Framesnelheid van verzender</string>
+    <string name="jgsdk_speaker">Luidspreker</string>
+    <string name="jgsdk_switch_camera">Camera wisselen</string>
+    <string name="jgsdk_toggle_self_view">Zelfweergave aan/uit</string>
+    <string name="jgsdk_transmit">Verzenden</string>
+    <string name="jgsdk_transmit_codec_heading">Codec verzenden</string>
+    <string name="jgsdk_video">Video</string>
+    <string name="jgsdk_video_muted">Video gestopt</string>
+    <string name="jgsdk_video_stats_heading">Videostatistieken</string>
+    <string name="jgsdk_video_stopped">Video gestopt</string>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

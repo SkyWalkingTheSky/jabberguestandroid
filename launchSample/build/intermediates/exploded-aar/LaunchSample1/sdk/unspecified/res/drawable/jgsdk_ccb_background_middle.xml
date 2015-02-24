@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/jgsdk_ccb_background_middle_pressed" android:state_pressed="true"/>
+    <item android:drawable="@drawable/jgsdk_ccb_background_middle_selected" android:state_activated="true"/>
+    <item android:drawable="@drawable/jgsdk_ccb_background_middle_default"/>
+
+</selector>
+<!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/drawable/jgsdk_ccb_background_middle.xml -->

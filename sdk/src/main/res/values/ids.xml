@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="jgsdk_preview_view" type="id"/>
+    <item name="jgsdk_remote_view" type="id"/>
+    <item name="jgsdk_self_view" type="id"/>
+
+</resources>

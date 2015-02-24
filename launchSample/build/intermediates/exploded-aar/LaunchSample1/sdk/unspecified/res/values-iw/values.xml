@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string-array name="jgsdk_video_license_options">
+        <item>הפעל</item>
+        <item>הצג רישיון</item>
+        <item>ביטול</item>
+    </string-array>
+    <string name="jgsdk_accept">קבל</string>
+    <string name="jgsdk_activate_license">הפעל רישיון</string>
+    <string name="jgsdk_activate_license_textbody">כדי לאפשר שיחות וידאו, הפעל רישיון וידאו חינמי (H.264 AVC) של Cisco. על-ידי בחירה באפשרות  \'הפעל\', אתה מביע את הסכמתך להסכם הרישיון למשתמש קצה של Cisco  ולהודעות.</string>
+    <string name="jgsdk_audio">שמע</string>
+    <string name="jgsdk_audio_muted">שמע מושתק</string>
+    <string name="jgsdk_audio_output">פלט שמע</string>
+    <string name="jgsdk_audio_stats_heading">סטטיסטיקת שמע</string>
+    <string name="jgsdk_available_audio_ouputs">פלטי שמע זמינים</string>
+    <string name="jgsdk_bitrate">קצב סיביות</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth‏ (%s)‏</string>
+    <string name="jgsdk_call">התקשר</string>
+    <string name="jgsdk_call_calling">מתקשר:</string>
+    <string name="jgsdk_call_dropped">השיחה נפלה</string>
+    <string name="jgsdk_call_ending">מסיים שיחה...</string>
+    <string name="jgsdk_call_not_completed">השיחה לא הושלמה</string>
+    <string name="jgsdk_call_ready">עכשיו אתה מוכן לשיחה:</string>
+    <string name="jgsdk_call_ready_short">מוכן לשיחה:</string>
+    <string name="jgsdk_call_server_no_response">אין תגובה מהשרת.</string>
+    <string name="jgsdk_call_with">חייג עם %s</string>
+    <string name="jgsdk_certificate_warn_message">ההתקן שלך אינו יכול לאשר את זהות השרת %s עם האישור שהשרת סיפק. ייתכן שגורם בלתי מוכר מנסה לגשת למידע הסודי שלך.</string>
+    <string name="jgsdk_certificate_warn_title">האישור אינו תקף</string>
+    <string name="jgsdk_cisco_logo">הלוגו של Cisco</string>
+    <string name="jgsdk_control_bar_end">סיום</string>
+    <string name="jgsdk_control_bar_keypad">לוח מקשים</string>
+    <string name="jgsdk_control_bar_mute">השתק</string>
+    <string name="jgsdk_control_bar_stop">עצור</string>
+    <string name="jgsdk_cumulative_pct_lost">חבילות שאבדו במצטבר</string>
+    <string name="jgsdk_decline">דחה</string>
+    <string name="jgsdk_default_stats_text">לא זמין</string>
+    <string name="jgsdk_dismiss_stats_btn">אישור</string>
+    <string name="jgsdk_earphone">אוזנייה</string>
+    <string name="jgsdk_error_destination_busy">אנו מתנצלים, האדם שאתה מנסה להגיע אליו אינו פנוי. אנא נסה להתקשר שוב מאוחר יותר.</string>
+    <string name="jgsdk_error_invalid_call_state">לשרת לא הייתה אפשרות לעבד את הבקשה האחרונה.</string>
+    <string name="jgsdk_error_link_disabled">אנו מצטערים, נראה שקישור זה מושבת.</string>
+    <string name="jgsdk_error_link_expired">אנו מצטערים, נראה שפג תוקף הקישור.</string>
+    <string name="jgsdk_error_link_invalid">קישור זה אינו חוקי.</string>
+    <string name="jgsdk_error_link_not_active">אנו מצטערים, אי אפשר להשלים את שיחתך עדיין. נסה להתקשר שוב מאוחר יותר.</string>
+    <string name="jgsdk_error_link_not_found">אנו מצטערים, לא ניתן להשלים את שיחתך.</string>
+    <string name="jgsdk_error_networking">אין גישה לשרת. ודא שההתקן מחובר לרשת.</string>
+    <string name="jgsdk_error_networking_between_device">אירעה שגיאת רשת בין ההתקן לשרת.</string>
+    <string name="jgsdk_error_no_WiFi_connection">אין חיבור WiFi</string>
+    <string name="jgsdk_error_no_network_connection">אין חיבור רשת</string>
+    <string name="jgsdk_error_no_network_connection_comment">כדי לבצע שיחה זו, עליך להיות מחובר לאינטרנט.</string>
+    <string name="jgsdk_error_no_server_connection">אין חיבור שרת</string>
+    <string name="jgsdk_error_no_server_connection_comment">שרת Jabber Guest אינו נגיש.</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">לשיפור איכות השיחה, מומלץ להשתמש בחיבור ל-WiFi.</string>
+    <string name="jgsdk_error_server">הקישור הוביל לשגיאת שרת.</string>
+    <string name="jgsdk_error_server_api_version_failed">עדכן את לקוח Jabber Guest שברשותך לגרסה הנתמכת העדכנית ביותר.</string>
+    <string name="jgsdk_error_server_busy">השרת לא פנוי.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">השרת לא הצליח ליצור תקשורת עם בקר המדיה.</string>
+    <string name="jgsdk_error_unknown">אירעה שגיאה לא ידועה - נסה שוב או פנה למנהל מערכת.</string>
+    <string name="jgsdk_finish_started_call">עליך לסיים שיחה זו לפני שתתחיל שיחה חדשה.</string>
+    <string name="jgsdk_frame">מסגרת</string>
+    <string name="jgsdk_frame_rate_heading">FPS:</string>
+    <string name="jgsdk_frame_size_heading">גודל מסגרת:</string>
+    <string name="jgsdk_generic_user_avatar">אוואטר משתמש גנרי</string>
+    <string name="jgsdk_jitter">Jitter</string>
+    <string name="jgsdk_keypad_button">לחצן לוח מקשים</string>
+    <string name="jgsdk_name_heading">שם:</string>
+    <string name="jgsdk_network_unavailable">רשת לא זמינה</string>
+    <string name="jgsdk_no_video_being_received">לא מתקבל שום וידאו</string>
+    <string name="jgsdk_other">אחר</string>
+    <string name="jgsdk_packets">מנות</string>
+    <string name="jgsdk_packets_lost">מנות שאבדו</string>
+    <string name="jgsdk_payload_type_heading">סוג תוכן מנה:</string>
+    <string name="jgsdk_percent_lost">אחוזים שאבדו</string>
+    <string name="jgsdk_rcvr_frame_rate">קצב מסגרות של  מקבל</string>
+    <string name="jgsdk_receive">קבל</string>
+    <string name="jgsdk_receive_codec_heading">קבלת Codec</string>
+    <string name="jgsdk_resolution">רזולוציה</string>
+    <string name="jgsdk_roundtrip_latency">הלוך ושוב/השהיה</string>
+    <string name="jgsdk_sender_frame_rate">קצב מסגרות של שולח</string>
+    <string name="jgsdk_speaker">רמקול</string>
+    <string name="jgsdk_switch_camera">החלף מצלמה</string>
+    <string name="jgsdk_toggle_self_view">החלף מצב צפייה עצמית</string>
+    <string name="jgsdk_transmit">שדר</string>
+    <string name="jgsdk_transmit_codec_heading">שידור Codec</string>
+    <string name="jgsdk_video">וידאו</string>
+    <string name="jgsdk_video_muted">הווידאו נעצר</string>
+    <string name="jgsdk_video_stats_heading">סטטיסטיקת וידאו</string>
+    <string name="jgsdk_video_stopped">הווידאו נעצר</string>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

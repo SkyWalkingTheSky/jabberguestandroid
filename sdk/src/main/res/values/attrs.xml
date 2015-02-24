@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CallBarView">
+        <attr name="jgsdk_buttons">
+            <flag name="audio" value="0x01" />
+            <flag name="video" value="0x02" />
+            <flag name="keypad" value="0x04" />
+            <flag name="hook" value="0x08" />
+            <flag name="all" value="0xff" />
+        </attr>
+        <attr name="android:onClick" />
+    </declare-styleable>
+    <declare-styleable name="BaseTextureViewLayout">
+        <attr name="android:maxWidth" />
+        <attr name="android:maxHeight" />
+    </declare-styleable>
+
+</resources>

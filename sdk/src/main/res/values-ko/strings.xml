@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="jgsdk_call">통화</string>
+    <string name="jgsdk_switch_camera">카메라 전환</string>
+    <string name="jgsdk_network_unavailable">네트워크를 사용할 수 없음</string>
+    <string name="jgsdk_generic_user_avatar">일반 사용자 아바타</string>
+    <string name="jgsdk_toggle_self_view">셀프 뷰 전환</string>
+    <string name="jgsdk_audio_muted">오디오 음소거</string>
+    <string name="jgsdk_video_muted">비디오 중지됨</string>
+    <string name="jgsdk_keypad_button">키패드 단추</string>
+    <string name="jgsdk_control_bar_mute">음소거</string>
+    <string name="jgsdk_control_bar_stop">중지</string>
+    <string name="jgsdk_control_bar_keypad">키패드</string>
+    <string name="jgsdk_control_bar_end">종료</string>
+    
+    <!-- call statistics page -->
+    <string name="jgsdk_audio_stats_heading">오디오 통계</string>
+    <string name="jgsdk_video_stats_heading">비디오 통계</string>
+    <string name="jgsdk_transmit_codec_heading">코덱 전송</string>
+    <string name="jgsdk_receive_codec_heading">코덱 수신</string>
+    <string name="jgsdk_name_heading">이름:</string>
+    <string name="jgsdk_payload_type_heading">페이로드 유형:</string>
+    <string name="jgsdk_frame_rate_heading">FPS:</string>
+    <string name="jgsdk_frame_size_heading">프레임 크기:</string>
+    <string name="jgsdk_default_stats_text">N/A</string>
+    <string name="jgsdk_dismiss_stats_btn">확인</string>
+    
+    <string name="jgsdk_video">비디오</string>
+    <string name="jgsdk_audio">오디오</string>
+    <string name="jgsdk_transmit">전송</string>
+    <string name="jgsdk_packets">패킷</string>
+    <string name="jgsdk_packets_lost">손실된 패킷</string>
+    <string name="jgsdk_percent_lost">손실률</string>
+    <string name="jgsdk_cumulative_pct_lost">누적 손실률</string>
+    <string name="jgsdk_frame">프레임</string>
+    <string name="jgsdk_resolution">해상도</string>
+    <string name="jgsdk_sender_frame_rate">발신자 프레임 속도</string>
+    <string name="jgsdk_other">기타</string>
+    <string name="jgsdk_bitrate">전송률</string>
+    <string name="jgsdk_jitter">지터</string>
+    <string name="jgsdk_roundtrip_latency">양방향/대기시간</string>
+    <string name="jgsdk_receive">수신</string>
+    <string name="jgsdk_rcvr_frame_rate">수신자 프레임 속도</string>        
+    <!-- call statistics page -->
+    
+    <string name="jgsdk_call_dropped">통화 누락됨</string>
+    <string name="jgsdk_call_not_completed">통화 종료 안 됨</string>
+    <string name="jgsdk_call_server_no_response">서버로부터 응답이 없습니다.</string>
+    <string name="jgsdk_error_server">링크로 인해 서버 오류가 발생했습니다.</string>
+    <string name="jgsdk_error_networking">서버에 연결할 수 없습니다. 장치가 네트워크에 연결되어 있는지 확인하십시오.</string>
+    <string name="jgsdk_error_server_busy">서버가 사용 중입니다.</string>
+    <string name="jgsdk_error_destination_busy">죄송합니다. 연결하려는 사용자가 통화 중입니다. 나중에 다시 걸어 주십시오.</string>
+    <string name="jgsdk_error_link_not_active">죄송합니다. 통화를 완료할 수 없습니다. 나중에 다시 걸어 주십시오.</string>
+    <string name="jgsdk_error_link_expired">죄송합니다. 이 링크가 만료되었습니다.</string>
+    <string name="jgsdk_error_link_disabled">죄송합니다. 이 링크가 비활성화되었습니다.</string>
+    <string name="jgsdk_error_link_invalid">링크가 유효하지 않습니다.</string>
+    <string name="jgsdk_error_link_not_found">죄송합니다. 통화를 완료할 수 없습니다.</string>
+    <string name="jgsdk_error_unknown">알 수 없는 오류가 발생했습니다. 다시 시도하거나 시스템 관리자에게 문의하십시오.</string>
+    <string name="jgsdk_error_networking_between_device">장치와 서버 사이에 네트워킹 오류가 있었습니다.</string>
+    <string name="jgsdk_error_invalid_call_state">서버에서 마지막 요청을 처리할 수 없습니다.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">서버에서 미디어 컨트롤러와 통신할 수 없습니다.</string>
+    <string name="jgsdk_error_server_api_version_failed">Jabber Guest 클라이언트를 지원 가능한 최신 버전으로 업데이트하십시오.</string>
+    <string name="jgsdk_error_no_network_connection">네트워크 연결 없음</string>
+    <string name="jgsdk_error_no_network_connection_comment">통화하려면 인터넷에 연결되어 있어야 합니다.</string>    
+    <string name="jgsdk_error_no_server_connection">서버 연결 없음</string>
+    <string name="jgsdk_error_no_server_connection_comment">Jabber Guest 서버에 연결할 수 없습니다.</string>
+    <string name="jgsdk_error_no_WiFi_connection">WiFi 연결 없음</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">더 나은 통화 품질을 원하시면 WiFi에 연결하십시오.</string>
+    <string name="jgsdk_audio_output">오디오 출력</string>
+    <string name="jgsdk_available_audio_ouputs">사용 가능한 오디오 출력</string>
+    <string name="jgsdk_speaker">스피커</string>
+    <string name="jgsdk_earphone">이어폰</string>
+    <string name="jgsdk_bluetooth">블루투스</string>
+    <string name="jgsdk_bluetooth_s">블루투스(%s)</string>
+    <string name="jgsdk_no_video_being_received">수신 중인 영상 없음</string>
+    <string name="jgsdk_cisco_logo">Cisco 로고</string>
+    <string name="jgsdk_video_stopped">비디오 중지됨</string>
+    <string name="jgsdk_certificate_warn_title">인증서가 유효하지 않음</string>
+    <string name="jgsdk_certificate_warn_message">서버에서 제공한 인증서를 사용하여 서버 %s의 ID를 사용자의 장치에서 확인할 수 없습니다. 알 수 없는 사람이 사용자의 기밀 정보에 액세스하려고 시도하는 것일 수 있습니다.</string>
+    <string name="jgsdk_accept">수락</string>
+    <string name="jgsdk_decline">거부</string>
+    <string name="jgsdk_call_ready">통화 준비 완료:</string>
+    <string name="jgsdk_call_ready_short">통화 준비:</string>
+    <string name="jgsdk_call_ending">통화 종료 중&#8230;</string>
+    <string name="jgsdk_call_calling">통화 중...</string>
+    <string name="jgsdk_finish_started_call">새로 통화를 시작하려면 이 통화를 종료해야 합니다.</string>
+    <string name="jgsdk_call_with">%s님과 통화</string>
+    <string name="jgsdk_activate_license">라이센스 활성화</string>
+    <string name="jgsdk_activate_license_textbody">영상 통화를 활성화하려면 Cisco의 무료 영상 라이센스(H.264 AVC)를 활성화하십시오. Cisco 최종 사용자 라이센스 계약 및 고지 사항에 동의하면 \'활성화\'를 선택하십시오.</string>
+    <string-array name="jgsdk_video_license_options">
+        <item>활성화</item>
+        <item>라이센스 보기</item>
+        <item>취소</item>
+    </string-array>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

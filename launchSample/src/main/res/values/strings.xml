@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jabber Guest på Android Tab</string>
+    <string name="action_settings">Settings</string>
+    <string name="call">Hjemmeplejen</string>
+    <string name="call1">Morgenmøde</string>
+    <string name="tekst">Demo af Jabber Guest på Android Tab</string>
+    <string name="call2">Telemesteren</string>
+    <string name="call_address_hint">Address</string>
+    <string name="call_description">The following EditText and Button allows the User to specify a number to call.</string>
+    <string name="call_now">Call Now</string>
+    <string name="call_now_description">This Button embeds the following number to call:</string>
+    <string name="call_server_hint">Server</string>
+    <string name="get_jabber_guest">Get Jabber Guest</string>
+    <string name="jabberc_not_found">Jabber Guest not found, please verify it is installed</string>
+        
+</resources>

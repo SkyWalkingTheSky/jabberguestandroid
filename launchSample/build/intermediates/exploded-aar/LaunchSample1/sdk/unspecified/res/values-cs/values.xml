@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rjp/Desktop/JabberGuestSDK-Android-10.5.1.271/samples/LaunchSample1/sdk/src/main/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string-array name="jgsdk_video_license_options">
+        <item>Aktivovat</item>
+        <item>Zobrazit licenci</item>
+        <item>Zrušit</item>
+    </string-array>
+    <string name="jgsdk_accept">Přijmout</string>
+    <string name="jgsdk_activate_license">Aktivovat licenci</string>
+    <string name="jgsdk_activate_license_textbody">Chcete-li povolit videohovory, aktivujte bezplatnou licenci na video (H.264 AVC) od společnosti Cisco. Výběrem možnosti Aktivovat vyjadřujete svůj souhlas s licenční smlouvou koncového uživatele společnosti Cisco a příslušnými prohlášeními.</string>
+    <string name="jgsdk_audio">Zvuk</string>
+    <string name="jgsdk_audio_muted">Zvuk je ztišen</string>
+    <string name="jgsdk_audio_output">Zvukový výstup</string>
+    <string name="jgsdk_audio_stats_heading">Statistika zvuku</string>
+    <string name="jgsdk_available_audio_ouputs">Dostupné zvukové výstupy</string>
+    <string name="jgsdk_bitrate">Bitová rychlost</string>
+    <string name="jgsdk_bluetooth">Bluetooth</string>
+    <string name="jgsdk_bluetooth_s">Bluetooth (%s)</string>
+    <string name="jgsdk_call">Volat</string>
+    <string name="jgsdk_call_calling">Volání…</string>
+    <string name="jgsdk_call_dropped">Hovor byl přerušen</string>
+    <string name="jgsdk_call_ending">Ukončování hovoru…</string>
+    <string name="jgsdk_call_not_completed">Hovor nebyl spojen</string>
+    <string name="jgsdk_call_ready">Teď jste připraveni na volání:</string>
+    <string name="jgsdk_call_ready_short">Volání připraveno:</string>
+    <string name="jgsdk_call_server_no_response">Žádná odezva ze serveru</string>
+    <string name="jgsdk_call_with">Hovor s uživatelem %s</string>
+    <string name="jgsdk_certificate_warn_message">Vaše zařízení nemůže potvrdit identitu serveru %s pomocí certifikátu poskytnutého serverem. Neznámé strany by se mohly pokusit o přístup k důvěrným informacím.</string>
+    <string name="jgsdk_certificate_warn_title">Neplatný certifikát</string>
+    <string name="jgsdk_cisco_logo">Logo společnosti Cisco</string>
+    <string name="jgsdk_control_bar_end">Ukončit</string>
+    <string name="jgsdk_control_bar_keypad">Klávesnice</string>
+    <string name="jgsdk_control_bar_mute">Ztišit</string>
+    <string name="jgsdk_control_bar_stop">Zastavit</string>
+    <string name="jgsdk_cumulative_pct_lost">Ztraceno – kumulativní (%)</string>
+    <string name="jgsdk_decline">Odmítnout</string>
+    <string name="jgsdk_default_stats_text">Není k dispozici</string>
+    <string name="jgsdk_dismiss_stats_btn">OK</string>
+    <string name="jgsdk_earphone">Sluchátko</string>
+    <string name="jgsdk_error_destination_busy">Litujeme, ale volaný účastník má obsazeno. Opakujte volání později.</string>
+    <string name="jgsdk_error_invalid_call_state">Server nemohl zpracovat poslední požadavek.</string>
+    <string name="jgsdk_error_link_disabled">Litujeme, ale tento odkaz je pravděpodobně zakázán.</string>
+    <string name="jgsdk_error_link_expired">Litujeme, ale platnost tohoto odkazu pravděpodobně vypršela.</string>
+    <string name="jgsdk_error_link_invalid">Odkaz je neplatný.</string>
+    <string name="jgsdk_error_link_not_active">Litujeme, ale hovor nelze zatím spojit. Opakujte volání později.</string>
+    <string name="jgsdk_error_link_not_found">Litujeme, ale hovor nelze spojit.</string>
+    <string name="jgsdk_error_networking">Server je nedosažitelný. Zkontrolujte, zda je zařízení připojeno k síti.</string>
+    <string name="jgsdk_error_networking_between_device">Došlo k síťové chybě mezi zařízením a serverem.</string>
+    <string name="jgsdk_error_no_WiFi_connection">Připojení k síti Wi-Fi není k dispozici</string>
+    <string name="jgsdk_error_no_network_connection">Připojení k síti není k dispozici</string>
+    <string name="jgsdk_error_no_network_connection_comment">Chcete-li uskutečnit toto volání, musíte být připojeni k internetu.</string>
+    <string name="jgsdk_error_no_server_connection">Připojení k serveru není k dispozici</string>
+    <string name="jgsdk_error_no_server_connection_comment">Server Jabber Guest je nedosažitelný.</string>
+    <string name="jgsdk_error_no_wifi_connection_comment">Chcete-li lepší kvalitu hovoru, doporučujeme připojení k síti Wi-Fi.</string>
+    <string name="jgsdk_error_server">Odkaz způsobil chybu serveru.</string>
+    <string name="jgsdk_error_server_api_version_failed">Aktualizujte klienta aplikace Jabber Guest na nejnovější podporovanou verzi.</string>
+    <string name="jgsdk_error_server_busy">Server pracuje.</string>
+    <string name="jgsdk_error_turn_cred_acquire_failed">Server nemůže komunikovat s řadičem médií.</string>
+    <string name="jgsdk_error_unknown">Došlo k neznámé chybě. Opakujte akci nebo se obraťte na správce systému.</string>
+    <string name="jgsdk_finish_started_call">Před zahájením nového hovoru musíte ukončit tento hovor.</string>
+    <string name="jgsdk_frame">Rámec</string>
+    <string name="jgsdk_frame_rate_heading">Počet snímků za sekundu:</string>
+    <string name="jgsdk_frame_size_heading">Velikost snímku:</string>
+    <string name="jgsdk_generic_user_avatar">Obecný avatar uživatele</string>
+    <string name="jgsdk_jitter">Kolísání</string>
+    <string name="jgsdk_keypad_button">Tlačítko klávesnice</string>
+    <string name="jgsdk_name_heading">Název:</string>
+    <string name="jgsdk_network_unavailable">Síť je nedostupná</string>
+    <string name="jgsdk_no_video_being_received">Není přijímáno žádné video</string>
+    <string name="jgsdk_other">Další</string>
+    <string name="jgsdk_packets">Pakety</string>
+    <string name="jgsdk_packets_lost">Ztracené pakety</string>
+    <string name="jgsdk_payload_type_heading">Typ obsahu:</string>
+    <string name="jgsdk_percent_lost">Ztraceno (%)</string>
+    <string name="jgsdk_rcvr_frame_rate">Rychlost přenosu rámců příjemce</string>
+    <string name="jgsdk_receive">Příjem</string>
+    <string name="jgsdk_receive_codec_heading">Přijmout kodek</string>
+    <string name="jgsdk_resolution">Rozlišení</string>
+    <string name="jgsdk_roundtrip_latency">Obousměrné zpoždění</string>
+    <string name="jgsdk_sender_frame_rate">Rychlost přenosu rámců odesílatele</string>
+    <string name="jgsdk_speaker">Reproduktor</string>
+    <string name="jgsdk_switch_camera">Přepnout kameru</string>
+    <string name="jgsdk_toggle_self_view">Přepnout do vlastního zobrazení</string>
+    <string name="jgsdk_transmit">Přenos</string>
+    <string name="jgsdk_transmit_codec_heading">Přenést kodek</string>
+    <string name="jgsdk_video">Video</string>
+    <string name="jgsdk_video_muted">Video zastaveno</string>
+    <string name="jgsdk_video_stats_heading">Statistika videa</string>
+    <string name="jgsdk_video_stopped">Video zastaveno</string>
+    <string name="url_videolicense">https://%s/call/about.jsp</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Cisco Confidential and Proprietary Code. Copyright 2010 Cisco Systems, Inc., all rights reserved.
+-->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/jgsdk_btn_action_pressed" android:state_pressed="true"/>
+    <item android:drawable="@drawable/jgsdk_btn_action_normal" android:state_enabled="true"/>
+    <item android:drawable="@drawable/jgsdk_btn_action_disabled" android:state_enabled="false"/>
+
+</selector>
